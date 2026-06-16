@@ -1,0 +1,799 @@
+SOC,Description,"Employed in Industry (2025)","Employed in Industry (2026)","Employed in Industry (2030)","Change (2026 - 2030)","% Change (2026 - 2030)","% of Total Jobs in Industry (2025)","Median Hourly Earnings","Typical Entry Level Education","Work Experience Required","Typical On-The-Job Training"
+41-2021,"Counter and Rental Clerks",814.763015705,835.641725468,886.893848428,51.25212296,0.0613326517788,0.132588373964,21.3707823725,"No formal educational credential",None,"Short-term on-the-job training"
+49-9071,"Maintenance and Repair Workers, General",790.834233103,810.752775167,860.962988769,50.2102136017,0.0619303629166,0.128694384774,26.6236216066,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+41-9022,"Real Estate Sales Agents",539.231702437,551.289286717,581.314215742,30.0249290247,0.0544631099281,0.0877504909256,34.3545314616,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+11-9141,"Property, Real Estate, and Community Association Managers",314.545708875,324.99591879,351.382487719,26.3865689291,0.0811904624138,0.05118679085,52.1002687157,"High school diploma or equivalent","Less than 5 years",None
+43-9061,"Office Clerks, General",231.543230423,235.035613352,240.920348961,5.88473560881,0.0250376337648,0.037679594965,23.435994926,"High school diploma or equivalent",None,"Short-term on-the-job training"
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",202.5672326,207.624372308,220.358874841,12.7345025325,0.061334333686,0.0329642601237,20.3338841552,"No formal educational credential",None,"Short-term on-the-job training"
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",185.210089941,187.569408863,191.193669607,3.62426074448,0.0193222379196,0.0301396899389,25.317339862,"Some college, no degree",None,"Moderate-term on-the-job training"
+11-1021,"General and Operations Managers",180.655739035,185.409420875,197.238877915,11.8294570401,0.0638018121424,0.0293985493012,61.6285042673,"Bachelor's degree","5 years or more",None
+13-2011,"Accountants and Auditors",173.472736866,177.39307006,187.223321442,9.83025138178,0.0554150812005,0.0282296418282,43.1089648075,"Bachelor's degree",None,None
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",167.34278988,171.236502996,180.944148655,9.70764565947,0.0566914500684,0.0272321005951,42.5591544539,"High school diploma or equivalent","Less than 5 years",None
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",139.309792727,142.187627516,148.546959984,6.35933246849,0.0447249354926,0.0226702225543,25.3919425202,"High school diploma or equivalent",None,"Short-term on-the-job training"
+13-1199,"Business Operations Specialists, All Other",96.8994301098,98.9932957794,104.152346985,5.15905120524,0.0521151575429,0.0157686807436,44.0340204732,"Bachelor's degree",None,None
+13-1161,"Market Research Analysts and Marketing Specialists",83.4645190273,85.3132592129,89.9098607331,4.59660152027,0.0538790987788,0.0135823848754,44.3914768596,"Bachelor's degree",None,None
+43-4051,"Customer Service Representatives",83.1170221736,84.2917051533,86.0968134482,1.80510829488,0.0214150169532,0.0135258358643,22.1764055494,"High school diploma or equivalent",None,"Short-term on-the-job training"
+13-1082,"Project Management Specialists",82.4072495595,84.0557350117,88.1034677868,4.0477327751,0.0481553432914,0.0134103328346,54.4154343989,"Bachelor's degree",None,None
+37-3011,"Landscaping and Groundskeeping Workers",80.5437357407,82.4947068706,87.4058147239,4.91110785324,0.059532399587,0.013107078683,21.1732620573,"No formal educational credential",None,"Short-term on-the-job training"
+43-4171,"Receptionists and Information Clerks",73.5451726681,75.2302046861,79.4549501328,4.22474544669,0.0561575694804,0.0119681854343,20.3347398054,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-1011,"First-Line Supervisors of Office and Administrative Support Workers",71.1007949027,72.3634514472,75.0382930561,2.67484160896,0.036963986038,0.0115704058751,34.4107740894,"High school diploma or equivalent","Less than 5 years",None
+37-2012,"Maids and Housekeeping Cleaners",68.5056133114,70.1327448063,74.2337314194,4.10098661309,0.0584746344154,0.0111480856412,18.4313925007,"No formal educational credential",None,"Short-term on-the-job training"
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",66.4672616438,67.4295623428,69.4582284711,2.0286661283,0.0300857080755,0.0108163796998,21.1321713901,"No formal educational credential",None,"Short-term on-the-job training"
+33-9032,"Security Guards",63.5602681379,64.6998019963,66.9586350452,2.25883304882,0.0349125187268,0.0103433175521,21.1356930588,"High school diploma or equivalent",None,"Short-term on-the-job training"
+11-3031,"Financial Managers",53.9058585364,55.7934393119,61.1869155877,5.39347627584,0.0966686467507,0.00877223191617,79.3209756057,"Bachelor's degree","5 years or more",None
+53-3032,"Heavy and Tractor-Trailer Truck Drivers",49.9543208118,51.0885549021,53.6135911698,2.52503626767,0.0494246954628,0.00812918853857,32.6376538698,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+41-1011,"First-Line Supervisors of Retail Sales Workers",46.4716455472,47.762211391,50.8645741081,3.10236271709,0.0649543357968,0.00756244429334,26.1248104996,"High school diploma or equivalent","Less than 5 years",None
+53-3033,"Light Truck Drivers",43.4524622,44.1565873955,45.6027791834,1.44619178794,0.032751439213,0.00707112521898,20.9407140114,"High school diploma or equivalent",None,"Short-term on-the-job training"
+13-1071,"Human Resources Specialists",42.1923258937,43.1470961689,45.5294355926,2.38233942366,0.055214362847,0.0068660601625,40.3929065653,"Bachelor's degree",None,None
+43-6011,"Executive Secretaries and Executive Administrative Assistants",40.7867037475,41.5800943126,43.3115491279,1.7314548153,0.0416414354976,0.00663731984025,35.241658593,"High school diploma or equivalent","Less than 5 years",None
+53-7061,"Cleaners of Vehicles and Equipment",38.0535690404,40.0792198664,45.1513321679,5.07211230144,0.126552171383,0.00619255015919,19.0440661798,"No formal educational credential",None,"Short-term on-the-job training"
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",32.2560726365,32.4834562434,32.7585449163,0.275088672858,0.00846857769066,0.00524910942067,37.8281842197,"High school diploma or equivalent",None,"Long-term on-the-job training"
+13-2028,"Property Appraisers and Assessors",30.8470143263,31.687100415,33.8113622232,2.12426180817,0.0670386933593,0.00501980992305,37.3486200226,"Bachelor's degree",None,"Long-term on-the-job training"
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",30.1258994853,30.6754825542,31.8412560344,1.16577348016,0.0380034275938,0.00490246114511,40.6028228432,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+13-2051,"Financial and Investment Analysts",26.9061727451,27.5466102471,29.155529319,1.6089190719,0.0584071527301,0.00437850715497,48.5525598785,"Bachelor's degree",None,None
+11-9021,"Construction Managers",25.2536987783,26.0008261465,28.0361359521,2.03530980566,0.0782786590778,0.00410959603352,60.1869901881,"Bachelor's degree",None,"Moderate-term on-the-job training"
+41-9021,"Real Estate Brokers",24.4402538784,25.7317216765,28.9151001958,3.18337851932,0.123714167258,0.00397722215976,44.7370931584,"High school diploma or equivalent","Less than 5 years",None
+39-6012,Concierges,24.3969065982,25.094772813,26.970851143,1.87607832999,0.0747597256199,0.00397016815106,19.4354215423,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-4011,"Audio and Video Technicians",24.0115896333,24.1816001732,24.3750398236,0.193439650418,0.00799945615812,0.00390746458099,34.5837955427,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+15-1252,"Software Developers",23.923844932,24.6206584045,26.56880948,1.9481510755,0.0791266847331,0.00389318567162,73.4116993984,"Bachelor's degree",None,None
+41-1012,"First-Line Supervisors of Non-Retail Sales Workers",22.7951448431,23.3326843749,24.68081913,1.34813475515,0.0577788107655,0.00370950955157,42.7607512384,"High school diploma or equivalent","Less than 5 years",None
+41-2031,"Retail Salespersons",22.6995138805,23.0418185816,23.7519819501,0.710163368479,0.0308206301497,0.00369394729164,16.9612696731,"No formal educational credential",None,"Short-term on-the-job training"
+49-3031,"Bus and Truck Mechanics and Diesel Engine Specialists",22.285631391,23.3517185273,25.9982684739,2.64654994663,0.113334268891,0.00362659518405,37.8052158727,"High school diploma or equivalent",None,"Long-term on-the-job training"
+13-1041,"Compliance Officers",21.9423780217,22.484894139,23.8701591714,1.38526503244,0.0616086971046,0.00357073672556,41.4670093263,"Bachelor's degree",None,"Moderate-term on-the-job training"
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",20.372070044,20.4895144686,20.5016926752,0.0121782066318,0.000594362870356,0.00331519667603,35.118,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+11-2021,"Marketing Managers",19.8907186478,20.413147082,21.7210917238,1.30794464187,0.0640736402192,0.0032368651886,75.408990653,"Bachelor's degree","5 years or more",None
+49-9062,"Medical Equipment Repairers",19.5649360773,19.7067993571,19.8237196606,0.116920303507,0.0059329930441,0.00318384979583,35.1187952149,"Associate's degree",None,"Moderate-term on-the-job training"
+35-3031,"Waiters and Waitresses",19.1858389956,19.6062197727,20.5979029682,0.991683195457,0.0505800305695,0.00312215840255,21.096,"No formal educational credential",None,"Short-term on-the-job training"
+47-2031,Carpenters,18.7433252199,19.0694847491,19.824477179,0.754992429896,0.0395916533577,0.00305014705588,33.4233961488,"High school diploma or equivalent",None,Apprenticeship
+13-2072,"Loan Officers",18.3686706145,18.798960336,19.8955466237,1.09658628773,0.0583322837077,0.00298917859759,34.2632012097,"Bachelor's degree","Less than 5 years","Moderate-term on-the-job training"
+47-2061,"Construction Laborers",18.3596702433,18.6895936438,19.4633566108,0.773762967027,0.041400737853,0.00298771394523,26.8528906879,"No formal educational credential",None,"Short-term on-the-job training"
+11-3013,"Facilities Managers",17.9800338747,18.4015586765,19.4344783327,1.03291965619,0.0561321828411,0.00292593479247,59.6326183285,"Bachelor's degree","Less than 5 years",None
+11-9199,"Managers, All Other",17.1939446868,17.6184095447,18.6791822144,1.06077266967,0.0602081968286,0.00279801258048,77.931619307,"Bachelor's degree","Less than 5 years",None
+11-2022,"Sales Managers",16.8647807623,17.2695906226,18.2517181927,0.982127570146,0.0568703446196,0.00274444693173,74.6685654049,"Bachelor's degree","Less than 5 years",None
+13-1121,"Meeting, Convention, and Event Planners",15.6751352046,16.0356936415,16.9631541795,0.927460538034,0.0578372572319,0.00255085300681,30.033,"Bachelor's degree",None,None
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",15.6270201073,15.9595896849,16.6989864737,0.739396788792,0.0463293106771,0.0025430231196,32.1219863549,"High school diploma or equivalent","Less than 5 years",None
+15-1232,"Computer User Support Specialists",14.4399301762,14.6350851539,14.9226031951,0.287518041246,0.0196458058305,0.00234984507804,32.2581553392,"Some college, no degree",None,None
+13-1028,"Buyers and Purchasing Agents",14.1451117572,14.515491127,15.5058500261,0.990358899127,0.0682277224012,0.00230186855721,37.3532870525,"Bachelor's degree",None,"Moderate-term on-the-job training"
+41-9099,"Sales and Related Workers, All Other",13.9810078165,14.305938253,15.1674005865,0.86146233351,0.0602171153178,0.00227516352244,30.4254913359,"High school diploma or equivalent",None,None
+43-4199,"Information and Record Clerks, All Other",13.7045811113,14.0218214528,14.8247787493,0.802957296526,0.0572648353305,0.00223017993009,23.7008419508,"High school diploma or equivalent",None,"Short-term on-the-job training"
+49-9041,"Industrial Machinery Mechanics",13.5839563174,13.6890657737,13.8143671212,0.125301347457,0.00915338924719,0.002210550363,36.0720887268,"High school diploma or equivalent",None,"Long-term on-the-job training"
+43-3021,"Billing and Posting Clerks",13.3691755004,13.4662936544,13.5124268826,0.0461332282004,0.00342582965917,0.00217559855649,26.3100584616,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-1011,"First-Line Supervisors of Construction Trades and Extraction Workers",12.8285581513,13.0664469944,13.626545901,0.560098906514,0.0428654328719,0.00208762257589,46.2722957928,"High school diploma or equivalent","5 years or more",None
+43-5061,"Production, Planning, and Expediting Clerks",12.3867613568,12.6387234463,13.1717001414,0.532976695111,0.0421701366736,0.00201572790532,30.3895599164,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-2141,"Painters, Construction and Maintenance",12.2439133614,12.5539615935,13.3403157498,0.786354156306,0.062637929107,0.00199248190241,27.2010948717,"No formal educational credential",None,"Moderate-term on-the-job training"
+23-1011,Lawyers,12.0632388793,12.3476273805,13.0409442199,0.69331683942,0.0561498025538,0.00196308030301,71.2569248935,"Doctoral or professional degree",None,None
+11-3021,"Computer and Information Systems Managers",11.8399280328,12.2083026641,13.230927279,1.02262461486,0.0837646840021,0.00192674038396,93.4130432172,"Bachelor's degree","5 years or more",None
+43-4081,"Hotel, Motel, and Resort Desk Clerks",11.8001463376,12.0779368987,12.7712905758,0.693353677075,0.0574066318518,0.00192026661163,19.044,"High school diploma or equivalent",None,"Short-term on-the-job training"
+13-1111,"Management Analysts",11.6911340802,11.9683391492,12.6514245216,0.683085372434,0.0570743662859,0.00190252678093,56.4777337062,"Bachelor's degree","Less than 5 years",None
+13-1151,"Training and Development Specialists",11.4105868059,11.7651214683,12.7114525731,0.946331104836,0.0804353025497,0.00185687263831,41.1552910592,"Bachelor's degree","Less than 5 years",None
+17-2051,"Civil Engineers",11.2007996181,11.4172976482,11.9427971379,0.525499489612,0.0460266085551,0.00182273345726,48.7570302453,"Bachelor's degree",None,None
+35-3011,Bartenders,10.8452414808,11.0578173924,11.5498607092,0.49204331675,0.0444973270301,0.00176487261384,21.411,"No formal educational credential",None,"Short-term on-the-job training"
+41-2011,Cashiers,10.8309278746,10.9348215457,11.0152224995,0.0804009537454,0.00735274493589,0.00176254332577,17.3828763701,"No formal educational credential",None,"Short-term on-the-job training"
+31-1128,"Home Health and Personal Care Aides",10.6697436519,10.9035256234,11.4794714366,0.575945813236,0.0528219800761,0.00173631342385,20.7217081649,"High school diploma or equivalent",None,"Short-term on-the-job training"
+27-3031,"Public Relations Specialists",9.94901828143,10.1703187426,10.7086668997,0.538348157088,0.0529332630286,0.00161902802539,40.3948847836,"Bachelor's degree",None,None
+43-5071,"Shipping, Receiving, and Inventory Clerks",9.54712666426,9.5786535325,9.4897132516,-0.0889402809094,-0.00928525920763,0.00155362722171,22.6206934293,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-3053,"Shuttle Drivers and Chauffeurs",9.35851240752,9.78433911383,10.8351708836,1.05083176979,0.107399361119,0.0015229335634,18.882,"No formal educational credential",None,"Short-term on-the-job training"
+15-1244,"Network and Computer Systems Administrators",9.34022900663,9.4493050304,9.72719043086,0.277885400456,0.0294080251999,0.00151995826096,48.4884478335,"Bachelor's degree",None,None
+11-1011,"Chief Executives",9.22477226798,9.46699800967,10.0762828195,0.609284809859,0.0643588188396,0.0015011697041,137.908265227,"Bachelor's degree","5 years or more",None
+43-3051,"Payroll and Timekeeping Clerks",9.11736295883,9.13740842068,8.97136228456,-0.166046136122,-0.0181721258892,0.0014836907251,27.9903408257,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+15-1211,"Computer Systems Analysts",8.78843250143,8.9784761971,9.45564246318,0.477166266082,0.0531455734366,0.00143016306901,58.4694824003,"Bachelor's degree",None,None
+35-3041,"Food Servers, Nonrestaurant",8.59696744286,8.74733554006,9.08461854159,0.337283001528,0.0385583701441,0.00139900549276,17.3608537587,"No formal educational credential",None,"Short-term on-the-job training"
+49-3023,"Automotive Service Technicians and Mechanics",8.45405208965,8.84016686105,9.76974005412,0.929573193066,0.105153353741,0.00137574852855,27.2353935887,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+53-6021,"Parking Attendants",8.30808553252,8.58345145198,9.26961503314,0.68616358116,0.0799402880064,0.00135199503448,18.063,"No formal educational credential",None,"Short-term on-the-job training"
+11-3121,"Human Resources Managers",8.25491581427,8.44543736697,8.92941849532,0.483981128357,0.0573068163704,0.00134334259647,82.9460615703,"Bachelor's degree","5 years or more",None
+15-1299,"Computer Occupations, All Other",8.05828472624,8.18976704011,8.47651723837,0.28675019826,0.0350132301512,0.00131134433964,60.9376143038,"Bachelor's degree",None,None
+51-6011,"Laundry and Dry-Cleaning Workers",7.97229595409,8.10719487209,8.41873903858,0.311544166492,0.0384281087857,0.00129735117689,18.8545524152,"No formal educational credential",None,"Short-term on-the-job training"
+11-3012,"Administrative Services Managers",7.79750192727,8.01213190588,8.54717585475,0.535043948866,0.0667792237012,0.00126890651833,60.441675713,"Bachelor's degree","Less than 5 years",None
+53-7065,"Stockers and Order Fillers",7.76250964293,7.87343938196,8.09005236706,0.216612985105,0.0275118629351,0.0012632121385,19.7230687786,"High school diploma or equivalent",None,"Short-term on-the-job training"
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",7.66319514328,7.85277882528,8.32142746923,0.468648643949,0.0596793382797,0.00124705044759,33.025517469,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+27-1024,"Graphic Designers",7.63480659886,7.79860867368,8.19765263779,0.399043964105,0.051168609787,0.00124243071048,35.8957855029,"Bachelor's degree",None,None
+23-2093,"Title Examiners, Abstractors, and Searchers",7.30845963633,7.51963275243,8.08198093681,0.562348184385,0.074783995828,0.00118932347282,30.2304155302,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",7.29469284163,7.40246421796,7.58897065299,0.186506435027,0.0251951822441,0.00118708316872,25.542,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-4131,"Loan Interviewers and Clerks",7.16167320403,7.30365208429,7.63320365322,0.329551568933,0.0451214769173,0.00116543655846,26.5461622057,"High school diploma or equivalent",None,"Short-term on-the-job training"
+15-2051,"Data Scientists",7.01296533934,7.33472746533,8.34801137733,1.01328391201,0.138148815589,0.00114123696472,68.4412756836,"Bachelor's degree",None,None
+37-1011,"First-Line Supervisors of Housekeeping and Janitorial Workers",7.00394249338,7.16653004825,7.56025294773,0.393722899479,0.0549391263036,0.00113976865498,26.9314844591,"High school diploma or equivalent","Less than 5 years",None
+35-9021,Dishwashers,6.92539778261,7.02360144248,7.22564331278,0.202041870301,0.0287661354301,0.00112698688251,17.082,"No formal educational credential",None,"Short-term on-the-job training"
+35-3023,"Fast Food and Counter Workers",6.79363935921,6.93057985232,7.26341479831,0.332834945993,0.0480241124243,0.00110554551271,16.578,"No formal educational credential",None,"Short-term on-the-job training"
+39-9041,"Residential Advisors",6.75842458132,6.91781536863,7.31758005695,0.399764688325,0.0577877071045,0.00109981492596,22.9476732059,"High school diploma or equivalent",None,"Short-term on-the-job training"
+47-4011,"Construction and Building Inspectors",6.73781377869,6.86360729927,7.13614611806,0.272538818787,0.0397078106167,0.00109646087975,44.5028155861,"High school diploma or equivalent","5 years or more","Moderate-term on-the-job training"
+39-3091,"Amusement and Recreation Attendants",6.61513934521,6.74153869094,7.04347948872,0.301940797777,0.0447881131621,0.00107649776981,16.776,"No formal educational credential",None,"Short-term on-the-job training"
+43-9199,"Office and Administrative Support Workers, All Other",6.59158179186,6.67248375846,6.77404315281,0.101559394355,0.0152206281845,0.00107266419166,23.0395266125,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-3011,"Bill and Account Collectors",6.58784538499,6.6335389991,6.64485163328,0.0113126341767,0.0017053693629,0.00107205615705,20.352064309,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+23-2011,"Paralegals and Legal Assistants",6.15784699068,6.25834379273,6.45514512569,0.196801332955,0.0314462323376,0.00100208146894,37.3098481617,"Associate's degree",None,None
+43-4151,"Order Clerks",6.01341806215,6.02509000877,5.92123314999,-0.103856858772,-0.0172373953951,0.000978578196922,20.7309580856,"Some college, no degree",None,"Short-term on-the-job training"
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",5.84108524004,5.91159351757,6.06287981757,0.151286299994,0.0255914584695,0.000950534056204,26.8651220387,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+11-3071,"Transportation, Storage, and Distribution Managers",5.59709684237,5.82536418915,6.4006256826,0.575261493452,0.0987511638369,0.000910829228801,64.3844869017,"High school diploma or equivalent","5 years or more",None
+39-9032,"Recreation Workers",5.59646596963,5.74047341893,6.09698670875,0.356513289823,0.062105206976,0.000910726565341,19.5487083976,"High school diploma or equivalent",None,"Short-term on-the-job training"
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",5.53999800686,5.65241084381,5.92148444144,0.269073597633,0.0476033333508,0.000901537395949,17.2751771841,"No formal educational credential",None,"Short-term on-the-job training"
+35-2012,"Cooks, Institution and Cafeteria",5.39146385838,5.52305450219,5.86470821228,0.341653710089,0.061859557959,0.000877366071472,22.9694835188,"No formal educational credential",None,"Short-term on-the-job training"
+53-3031,"Driver/Sales Workers",5.27744607261,5.33000547517,5.40246889396,0.0724634187827,0.0135953741737,0.000858811678934,17.6133889392,"High school diploma or equivalent",None,"Short-term on-the-job training"
+35-2014,"Cooks, Restaurant",5.24392440981,5.37055856947,5.69827954035,0.327720970879,0.0610217664773,0.000853356616937,20.0648388803,"No formal educational credential","Less than 5 years","Moderate-term on-the-job training"
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",4.33948190752,4.42303600815,4.62848823775,0.205452229596,0.0464504989824,0.00070617448126,18.054,"No formal educational credential",None,"Short-term on-the-job training"
+27-4021,Photographers,4.1928024331,4.28760404677,4.52901602536,0.241411978593,0.056304634467,0.000682304972417,21.3835772311,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+35-2021,"Food Preparation Workers",4.13457540461,4.23857422883,4.51496616207,0.276391933243,0.0652087042297,0.000672829545969,18.1707959321,"No formal educational credential",None,"Short-term on-the-job training"
+39-6011,"Baggage Porters and Bellhops",4.08122913421,4.17897557698,4.41763873434,0.238663157359,0.0571104456014,0.000664148377197,17.5182158928,"High school diploma or equivalent",None,"Short-term on-the-job training"
+35-1012,"First-Line Supervisors of Food Preparation and Serving Workers",4.07254551696,4.15351715156,4.33946217175,0.18594502019,0.0447680877206,0.000662735270969,24.111,"High school diploma or equivalent","Less than 5 years",None
+47-2073,"Operating Engineers and Other Construction Equipment Operators",4.0082653035,4.04382351639,4.09674577427,0.0529222578852,0.013087182878,0.000652274794957,40.2825615093,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+15-1255,"Web and Digital Interface Designers",3.89313202931,3.97174873676,4.15846224863,0.186713511871,0.047010403791,0.000633538876268,57.2871080263,"Bachelor's degree",None,None
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",3.8814533162,3.92631780438,4.00351513131,0.077197326923,0.019661507491,0.000631638370781,28.1436686129,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+17-1011,"Architects, Except Landscape and Naval",3.81010886787,3.85612540575,3.94003905463,0.0839136488786,0.0217611306815,0.00062002831459,42.5592751399,"Bachelor's degree",None,Internship/residency
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3.8039641886,3.8140080509,3.78101600802,-0.0329920428815,-0.00865022895631,0.000619028375936,57.996,"Bachelor's degree",None,"Moderate-term on-the-job training"
+53-6031,"Automotive and Watercraft Service Attendants",3.60208355807,3.77550037442,4.21386157676,0.438361202336,0.116106782906,0.000586175848243,19.8512003438,"No formal educational credential",None,"Short-term on-the-job training"
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",3.5909019353,3.67864840081,3.8989619486,0.220313547794,0.0598898083724,0.000584356235481,20.2490607094,"High school diploma or equivalent",None,"Short-term on-the-job training"
+41-2022,"Parts Salespersons",3.48742346911,3.55149464605,3.69556092412,0.144066278072,0.0405649712106,0.000567516932141,20.958013197,"No formal educational credential",None,"Moderate-term on-the-job training"
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3.34337234925,3.43896729554,3.68455128894,0.245583993402,0.0714121340208,0.00054407514185,32.6546382236,"High school diploma or equivalent","Less than 5 years",None
+41-9011,"Demonstrators and Product Promoters",3.31639203098,3.38290704099,3.54807969856,0.16517265757,0.0488256566228,0.000539684568813,16.9692943586,"No formal educational credential",None,"Short-term on-the-job training"
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",3.27527827734,3.32883347897,3.44548757836,0.116654099383,0.0350435370589,0.000532994027346,26.3557258904,"Associate's degree",None,None
+53-3099,"Motor Vehicle Operators, All Other",3.25218603797,3.49163017164,4.1430838515,0.65145367986,0.186575796358,0.000529236170877,21.2958166358,"No formal educational credential",None,"Short-term on-the-job training"
+35-9011,"Dining Room and Cafeteria Attendants and Bartender Helpers",3.24700243401,3.33168257403,3.5445536301,0.212871056069,0.0638929583892,0.000528392630353,18.252,"No formal educational credential",None,"Short-term on-the-job training"
+41-3021,"Insurance Sales Agents",3.23933623243,3.28878549267,3.39254764564,0.103762152973,0.0315502951482,0.000527145090661,28.1142895271,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-5021,"Captains, Mates, and Pilots of Water Vessels",3.18625514461,3.23122196614,3.31024644425,0.0790244781178,0.024456530361,0.000518507075697,51.0907871804,"Postsecondary nondegree award","Less than 5 years",None
+13-2052,"Personal Financial Advisors",3.09802797309,3.20325552817,3.51771013552,0.314454607346,0.09816719415,0.000504149652758,48.7440127866,"Bachelor's degree",None,"Long-term on-the-job training"
+13-2099,"Financial Specialists, All Other",3.03033392671,3.08629241584,3.2068228393,0.12053042346,0.0390534684404,0.000493133635384,33.4565928702,"Bachelor's degree",None,None
+43-9021,"Data Entry Keyers",2.91799549826,2.90900010967,2.76842424824,-0.140575861436,-0.0483244606862,0.000474852528762,19.9046492872,"High school diploma or equivalent",None,"Short-term on-the-job training"
+21-1099,"Community and Social Service Specialists, All Other",2.87354472518,2.94123790814,3.12062919073,0.179391282591,0.0609917620383,0.000467618945978,27.612,"Bachelor's degree",None,None
+47-2152,"Plumbers, Pipefitters, and Steamfitters",2.8658339572,2.94655067043,3.16735443099,0.220803760559,0.0749363527919,0.000466364153886,37.7951152909,"High school diploma or equivalent",None,Apprenticeship
+17-2141,"Mechanical Engineers",2.86188952953,2.95479861452,3.22910528514,0.274306670624,0.0928343032503,0.000465722267545,51.4235412923,"Bachelor's degree",None,None
+21-1093,"Social and Human Service Assistants",2.84041754012,2.90926851524,3.07073624037,0.16146772513,0.0555011420513,0.000462228078306,22.941,"High school diploma or equivalent",None,"Short-term on-the-job training"
+47-2111,Electricians,2.76369545538,2.8380825546,3.03782688259,0.199744327985,0.07038002741,0.000449742906217,44.6732287131,"High school diploma or equivalent",None,Apprenticeship
+27-1011,"Art Directors",2.72431790026,2.74060340796,2.74460833652,0.00400492856171,0.0014613309427,0.000443334900572,62.3804986648,"Bachelor's degree","5 years or more",None
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",2.6554902103,2.69483195194,2.77564474921,0.0808127972702,0.0299880655682,0.000432134402611,42.0292015618,"Bachelor's degree","Less than 5 years",None
+27-1025,"Interior Designers",2.65033393052,2.7179366395,2.89615262508,0.17821598558,0.065570323822,0.000431295308619,34.9534175341,"Bachelor's degree",None,None
+47-5013,"Service Unit Operators, Oil and Gas",2.62200451991,2.62937680808,2.61613717491,-0.0132396331636,-0.00503527418472,0.000426685194493,36.409515601,"No formal educational credential",None,"Moderate-term on-the-job training"
+13-1081,Logisticians,2.61877276625,2.78925398513,3.28722675425,0.497972769117,0.178532601108,0.000426159283333,50.4948349688,"Bachelor's degree",None,None
+13-1051,"Cost Estimators",2.58404995423,2.61643771018,2.6766795944,0.0602418842195,0.0230243907528,0.000420508755391,37.341,"Bachelor's degree",None,"Moderate-term on-the-job training"
+53-7051,"Industrial Truck and Tractor Operators",2.56044610453,2.60896416412,2.7222210332,0.113256869087,0.0434106649085,0.000416667643326,25.3099644527,"No formal educational credential",None,"Short-term on-the-job training"
+33-1091,"First-Line Supervisors of Security Workers",2.52355031789,2.5704179252,2.67127271661,0.100854791411,0.0392367289466,0.000410663501922,28.7845530242,"High school diploma or equivalent","Less than 5 years",None
+19-5011,"Occupational Health and Safety Specialists",2.4665882867,2.59713911588,3.01405948569,0.416920369808,0.160530626665,0.000401393931571,44.5572118076,"Bachelor's degree",None,None
+49-3091,"Bicycle Repairers",2.43264354373,2.44232234635,2.43209066526,-0.0102316810936,-0.00418932460283,0.000395870020706,24.5231622324,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+15-1242,"Database Administrators",2.37583452133,2.38715252471,2.369294972,-0.0178575527076,-0.00748069196364,0.000386625349849,58.2755886412,"Bachelor's degree",None,None
+11-2032,"Public Relations Managers",2.35066940727,2.42635392074,2.63759152783,0.211237607097,0.0870596846125,0.000382530169423,76.5440325027,"Bachelor's degree","5 years or more",None
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2.25382711381,2.29886076978,2.40547441062,0.10661364084,0.0463767280912,0.000366770786666,16.8570195721,"No formal educational credential",None,"Short-term on-the-job training"
+41-3011,"Advertising Sales Agents",2.25347157523,2.28500194738,2.34834067299,0.0633387256156,0.0277193311316,0.000366712929005,35.1709784519,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",2.18499511632,2.24219445841,2.39396196989,0.151767511486,0.0676870424493,0.00035556958773,25.9756738028,"High school diploma or equivalent","Less than 5 years",None
+43-5021,"Couriers and Messengers",2.17168461213,2.23616588412,2.41059018851,0.174424304391,0.0780015050002,0.000353403536901,19.8648962831,"High school diploma or equivalent",None,"Short-term on-the-job training"
+33-9091,"Crossing Guards and Flaggers",2.14124367299,2.16440163438,2.20831950157,0.0439178671893,0.0202909970551,0.000348449808583,25.29,"No formal educational credential",None,"Short-term on-the-job training"
+13-1131,Fundraisers,2.08708306254,2.1210155768,2.19457972724,0.073564150436,0.0346834560012,0.000339636120266,33.8559877559,"Bachelor's degree",None,None
+15-1253,"Software Quality Assurance Analysts and Testers",2.05071925307,2.10170817669,2.22714544566,0.125437268965,0.0596834852509,0.000333718548805,57.332740121,"Bachelor's degree",None,None
+15-1254,"Web Developers",2.04197598044,2.08585887158,2.19282757394,0.106968702357,0.0512828091174,0.000332295734712,52.4080977609,"Bachelor's degree",None,None
+51-1011,"First-Line Supervisors of Production and Operating Workers",2.02954025727,2.04264108543,2.04769656368,0.0050554782426,0.0024749713881,0.000330272039132,35.2203066122,"High school diploma or equivalent","Less than 5 years",None
+11-9041,"Architectural and Engineering Managers",1.97586402836,2.04916077853,2.26844760378,0.219286825245,0.107012991632,0.000321537175406,80.3203747229,"Bachelor's degree","5 years or more",None
+29-1126,"Respiratory Therapists",1.9640415771,1.98754108074,2.04581307424,0.0582719935062,0.0293186360126,0.000319613279059,46.1053176378,"Associate's degree",None,None
+11-9151,"Social and Community Service Managers",1.95653859292,1.99931298928,2.09516849359,0.0958555043152,0.0479442212547,0.000318392300133,44.244,"Bachelor's degree","Less than 5 years",None
+53-7199,"Material Moving Workers, All Other",1.92315925191,2.0326531067,2.31726972495,0.28461661825,0.140022228737,0.000312960398509,33.4998853845,"No formal educational credential",None,"Short-term on-the-job training"
+15-1231,"Computer Network Support Specialists",1.86960985417,1.89946197868,1.9596213555,0.0601593768171,0.0316717983789,0.000304246174327,43.3348345624,"Associate's degree",None,None
+43-4071,"File Clerks",1.81885448146,1.84100945071,1.85863667115,0.0176272204388,0.00957475825664,0.000295986628659,20.3126360296,"High school diploma or equivalent",None,"Short-term on-the-job training"
+11-9111,"Medical and Health Services Managers",1.80684877827,1.85301901251,1.96777348437,0.114754471858,0.0619283834018,0.000294032911279,70.761021385,"Bachelor's degree","Less than 5 years",None
+51-4121,"Welders, Cutters, Solderers, and Brazers",1.79296805589,1.8100743437,1.84144707518,0.0313727314809,0.0173322889141,0.00029177406745,29.5930260812,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-7021,"Crane and Tower Operators",1.70356283205,1.7080687274,1.70017539984,-0.00789332755716,-0.00462120020732,0.000277224937182,49.2053594648,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",1.61205631447,1.62501946271,1.64361118988,0.0185917271777,0.01144092585,0.000262333858256,25.2809154164,"Some college, no degree",None,"Short-term on-the-job training"
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1.57077390555,1.64368639188,1.86885194786,0.225165555978,0.136988148767,0.000255615871103,16.3426516916,"No formal educational credential",None,"Short-term on-the-job training"
+49-3092,"Recreational Vehicle Service Technicians",1.56239110199,1.64825651371,1.85244997712,0.204193463415,0.123884517803,0.000254251717023,28.1782354601,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8021,"Stationary Engineers and Boiler Operators",1.54077462397,1.57167271433,1.63968892713,0.0680162127931,0.0432763209368,0.000250734014799,48.969167629,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-3053,"Outdoor Power Equipment and Other Small Engine Mechanics",1.51647274621,1.67554639842,1.71445177052,0.0389053721031,0.0232195134314,0.000246779310923,25.5503224477,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-3093,"Tire Repairers and Changers",1.51336570575,1.60505917745,1.85379568781,0.248736510363,0.154970305057,0.000246273694646,19.8373557502,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-2098,"Miscellaneous Assemblers and Fabricators",1.49103919856,1.52469081162,1.6078393011,0.0831484894871,0.0545346563733,0.000242640447643,21.0981099345,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+15-1212,"Information Security Analysts",1.38835415148,1.4465317906,1.62019959986,0.173667809257,0.120058066048,0.000225930259331,71.6182232717,"Bachelor's degree","Less than 5 years",None
+11-3061,"Purchasing Managers",1.35782420558,1.3838361836,1.44254883967,0.0587126560678,0.0424274612585,0.000220962046726,77.3161289813,"Bachelor's degree","5 years or more",None
+49-3051,"Motorboat Mechanics and Service Technicians",1.34108617011,1.36019918874,1.40163850659,0.041439317847,0.0304656245864,0.000218238225366,32.1324071942,"High school diploma or equivalent",None,"Long-term on-the-job training"
+47-5071,"Roustabouts, Oil and Gas",1.33354109925,1.33780563877,1.33180668897,-0.0059989497949,-0.00448417140806,0.000217010397571,28.294266254,"No formal educational credential",None,"Moderate-term on-the-job training"
+53-5011,"Sailors and Marine Oilers",1.30802756974,1.32117815431,1.3298564395,0.00867828519407,0.00656859573841,0.000212858518649,30.6470863132,"No formal educational credential",None,"Moderate-term on-the-job training"
+43-4061,"Eligibility Interviewers, Government Programs",1.29752390049,1.35607866026,1.53604452171,0.179965861448,0.1327104885,0.000211149230916,27.7546735529,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+11-3111,"Compensation and Benefits Managers",1.27620376001,1.29852272219,1.34715569821,0.0486329760238,0.0374525414095,0.000207679752425,94.8938743725,"Bachelor's degree","5 years or more",None
+39-9031,"Exercise Trainers and Group Fitness Instructors",1.25890710827,1.27445445386,1.30012878178,0.0256743279199,0.0201453475581,0.000204865026076,23.3152954454,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-3061,"Procurement Clerks",1.25138724743,1.2677229818,1.29909257856,0.0313695967615,0.0247448355925,0.000203641300768,22.0288149876,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-4011,"Brokerage Clerks",1.25053388279,1.28468226146,1.36924233828,0.0845600768133,0.065821782825,0.000203502430659,28.3813460694,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-4121,"Library Assistants, Clerical",1.24874038196,1.28621529803,1.38795009975,0.10173480172,0.0790962460768,0.000203210569891,22.1942578712,"High school diploma or equivalent",None,"Short-term on-the-job training"
+37-3019,"Grounds Maintenance Workers, All Other",1.2409163848,1.30366375884,1.50267717154,0.199013412697,0.152657010942,0.000201937351738,19.8183363114,"No formal educational credential",None,"Short-term on-the-job training"
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",1.20077239746,1.22011630305,1.26169941787,0.0415831148268,0.0340812713697,0.000195404622708,34.5730200991,"Bachelor's degree",None,"Moderate-term on-the-job training"
+15-1243,"Database Architects",1.17715316104,1.22737362253,1.38103127266,0.153657650131,0.125192237564,0.000191561006723,67.8375979764,"Bachelor's degree",None,None
+43-6012,"Legal Secretaries and Administrative Assistants",1.15151513299,1.16969970635,1.2089558795,0.0392561731502,0.0335608985255,0.000187388867849,27.707994435,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-3091,"Interpreters and Translators",1.15099508415,1.17160360251,1.22038470884,0.0487811063263,0.0416361866946,0.000187304239033,36.3334172205,"Bachelor's degree",None,None
+15-2031,"Operations Research Analysts",1.1502105133,1.20557817653,1.37942752052,0.173849343993,0.14420412328,0.000187176563903,47.1389196059,"Bachelor's degree",None,None
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",1.1500920927,1.15242615496,1.14583226375,-0.00659389121678,-0.00572174727933,0.00018715729303,26.2895048961,"High school diploma or equivalent",None,"Short-term on-the-job training"
+11-3131,"Training and Development Managers",1.14328801363,1.17239494641,1.24137375605,0.068978809639,0.058835812838,0.000186050048637,77.0156299327,"Bachelor's degree","5 years or more",None
+17-2071,"Electrical Engineers",1.14072631456,1.15363741526,1.17696418858,0.0233267733266,0.0202201948533,0.000185633177096,58.9190900486,"Bachelor's degree",None,None
+43-3099,"Financial Clerks, All Other",1.11874929832,1.13152916924,1.15072461696,0.0191954477207,0.0169641651691,0.000182056803609,26.2075705266,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",1.11111580016,1.13190312081,1.1804162073,0.0485130864917,0.0428597515104,0.000180814585824,20.2760571885,"High school diploma or equivalent",None,"Short-term on-the-job training"
+41-3041,"Travel Agents",1.04726671675,1.06195135993,1.09204069352,0.0300893335884,0.028334003537,0.000170424268657,28.638,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+21-1022,"Healthcare Social Workers",1.01729706539,1.04211492315,1.10795507951,0.0658401563609,0.0631793623703,0.000165547234151,36.9860823661,"Master's degree",None,Internship/residency
+11-9121,"Natural Sciences Managers",0.995074798357,1.0150596495,1.06489489405,0.0498352445508,0.0490958778385,0.000161930950404,90.6090968833,"Bachelor's degree","5 years or more",None
+39-9099,"Personal Care and Service Workers, All Other",0.983013636249,1.04575867136,1.25237596219,0.206617290827,0.197576454765,0.000159968208059,17.0795796957,"High school diploma or equivalent",None,"Short-term on-the-job training"
+17-2199,"Engineers, All Other",0.981159450058,0.999325640149,1.04070768405,0.041382043898,0.0414099691186,0.000159666471815,54.5526054552,"Bachelor's degree",None,None
+13-2053,"Insurance Underwriters",0.977828603294,0.993694148237,1.02823735651,0.0345432082704,0.0347624149057,0.000159124434992,43.5124545702,"Bachelor's degree",None,"Moderate-term on-the-job training"
+49-3021,"Automotive Body and Related Repairers",0.964911810617,1.0316085856,1.20618201674,0.174573431146,0.169224484542,0.000157022453796,25.9851008879,"High school diploma or equivalent",None,"Long-term on-the-job training"
+47-3012,Helpers--Carpenters,0.953502940071,0.98160697147,0.900060183453,-0.0815467880176,-0.0830747849065,0.000155165860449,20.34,"No formal educational credential",None,"Short-term on-the-job training"
+43-4181,"Reservation and Transportation Ticket Agents and Travel Clerks",0.947361136116,0.962194413994,0.988357836675,0.0261634226805,0.0271914098647,0.000154166389703,20.7455570804,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-2021,"Animal Caretakers",0.946087782416,0.972451448116,1.04301237859,0.0705609304705,0.072559849242,0.000153959173747,17.073,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-7041,"Hoist and Winch Operators",0.937553911795,0.949345181473,0.972475955027,0.0231307735538,0.0243649770444,0.000152570436154,22.0519144509,"No formal educational credential",None,"Short-term on-the-job training"
+39-1022,"First-Line Supervisors of Personal Service Workers",0.911947333729,0.937133372132,1.00229958308,0.0651662109478,0.0695378191469,0.000148403415213,27.2026729269,"High school diploma or equivalent","Less than 5 years",None
+47-4031,"Fence Erectors",0.899913641038,0.905119385528,0.905432730682,0.000313345153765,0.000346192070102,0.000146445143034,27.3669297747,"No formal educational credential",None,"Moderate-term on-the-job training"
+49-9096,Riggers,0.899097525732,0.905547797278,0.925232079422,0.0196842821442,0.0217374303194,0.000146312334598,36.0321086172,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+25-3021,"Self-Enrichment Teachers",0.877108026473,0.881481089382,0.881440626878,-4.0462503855E-5,-4.59028609262E-5,0.000142733929719,21.6561280653,"High school diploma or equivalent","Less than 5 years",None
+15-1241,"Computer Network Architects",0.875382882221,0.893557286936,0.936768673514,0.0432113865782,0.0483588318399,0.000142453192784,73.6185282167,"Bachelor's degree","5 years or more",None
+43-6013,"Medical Secretaries and Administrative Assistants",0.869575192868,0.872022910559,0.869694080011,-0.00232883054763,-0.00267060706712,0.000141508093322,28.0200303894,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-9043,"Maintenance Workers, Machinery",0.869086621334,0.874698899179,0.883300355136,0.00860145595712,0.00983361927766,0.000141428586884,37.8698473861,"High school diploma or equivalent",None,"Long-term on-the-job training"
+27-4015,"Lighting Technicians",0.855260783913,0.846844906624,0.806506150855,-0.040338755769,-0.0476341717987,0.000139178674619,51.8823049549,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-2012,"Commercial Pilots",0.851620489013,0.886775633686,0.990699886473,0.103924252787,0.117193401396,0.000138586280546,68.5985554003,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.849081340155,0.858219290504,0.874708975356,0.0164896848524,0.0192138361778,0.000138173078655,48.5447050776,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+47-4098,"Miscellaneous Construction and Related Workers",0.842277391814,0.851773691307,0.869599752405,0.0178260610982,0.0209281658733,0.000137065855537,33.1046052885,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+13-2054,"Financial Risk Specialists",0.818613827461,0.836978427991,0.879319774901,0.0423413469107,0.0505883371598,0.000133215025959,56.0457793683,"Bachelor's degree",None,None
+13-2031,"Budget Analysts",0.816283577803,0.830646952956,0.862580456661,0.0319335037049,0.0384441351302,0.000132835818745,40.597933466,"Bachelor's degree",None,None
+17-3011,"Architectural and Civil Drafters",0.811169763328,0.840513741158,0.927323663936,0.0868099227779,0.103281979255,0.000132003635236,29.547,"Associate's degree",None,None
+15-2041,Statisticians,0.810366617991,0.823607060008,0.85584769794,0.0322406379329,0.039145655129,0.000131872937435,44.9278200094,"Master's degree",None,None
+53-7072,"Pump Operators, Except Wellhead Pumpers",0.80303847634,0.805603912283,0.802347982248,-0.00325593003485,-0.00404160156773,0.00013068041106,33.3365977935,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-9111,"Statistical Assistants",0.785875772755,0.800289902522,0.835672609254,0.0353827067314,0.0442123618202,0.00012788748242,22.3567327209,"Bachelor's degree",None,None
+13-2041,"Credit Analysts",0.761994110009,0.769488229073,0.779594526016,0.0101062969425,0.0131337901746,0.000124001161158,36.9957690699,"Bachelor's degree",None,None
+43-4041,"Credit Authorizers, Checkers, and Clerks",0.754317841109,0.756602677562,0.753833659811,-0.00276901775072,-0.00365980432377,0.000122751983187,23.031,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-4111,"Interviewers, Except Eligibility and Loan",0.739090386808,0.756462081393,0.797743005846,0.0412809244539,0.0545710425801,0.000120273982386,23.6878624212,"High school diploma or equivalent",None,"Short-term on-the-job training"
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",0.738917834348,0.751403673615,0.779853817947,0.0284501443324,0.0378626633479,0.000120245902503,36.2143358691,"High school diploma or equivalent","Less than 5 years",None
+39-9011,"Childcare Workers",0.727051844846,0.741624180663,0.774189002689,0.0325648220257,0.0439101405736,0.000118314921072,17.1252517637,"High school diploma or equivalent",None,"Short-term on-the-job training"
+13-1075,"Labor Relations Specialists",0.724815841734,0.733487784543,0.749801598067,0.0163138135238,0.0222414249665,0.000117951050829,51.9941598483,"Bachelor's degree","Less than 5 years",None
+23-2099,"Legal Support Workers, All Other",0.718471488666,0.731668656987,0.762118738654,0.0304500816672,0.0416173104812,0.000116918618771,35.6769395051,"Associate's degree",None,None
+39-7018,"Tour and Travel Guides",0.705339181108,0.708715260185,0.858919992353,0.150204732168,0.211939463712,0.000114781566313,22.5991727746,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+17-3031,"Surveying and Mapping Technicians",0.697782860439,0.711745847183,0.743926590065,0.0321807428824,0.0452138119383,0.000113551907809,27.6572520282,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+35-2011,"Cooks, Fast Food",0.694634656103,0.718060607321,0.783621473921,0.0655608666001,0.0913026921845,0.000113039592835,16.8841806011,"No formal educational credential",None,"Short-term on-the-job training"
+43-9041,"Insurance Claims and Policy Processing Clerks",0.693506578541,0.728723034769,0.818966246843,0.0902432120741,0.1238374633,0.00011285601802,26.2822954307,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-4031,"Camera Operators, Television, Video, and Film",0.672522698642,0.677218287485,0.680308238726,0.00308995124132,0.00456271086948,0.000109441260033,23.2230061465,"Bachelor's degree",None,None
+43-4141,"New Accounts Clerks",0.66877174725,0.67938476226,0.698884055388,0.0194992931276,0.0287013989874,0.000108830858559,22.213,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-4014,"Sound Engineering Technicians",0.65574274379,0.655313968202,0.641468384854,-0.0138455833485,-0.0211281675965,0.000106710617028,52.332715332,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+27-4032,"Film and Video Editors",0.644878710811,0.661915471225,0.539224541789,-0.122690929436,-0.185357397991,0.000104942686428,30.2019955361,"Bachelor's degree",None,None
+49-9031,"Home Appliance Repairers",0.632361528596,0.640502864794,0.657235018626,0.0167321538315,0.0261234644702,0.000102905734819,22.1406168591,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-6099,"Transportation Workers, All Other",0.627330210844,0.6400456994,0.669091818195,0.0290461187949,0.0453813201497,0.000102086976202,21.393316545,"High school diploma or equivalent",None,"Short-term on-the-job training"
+27-1023,"Floral Designers",0.601821423248,0.611062130927,0.631811255368,0.0207491244409,0.033955834261,9.79358689424E-5,19.7386480358,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+19-1032,Foresters,0.594633822529,0.605299881085,0.631443446151,0.0261435650667,0.0431910956596,9.67662131362E-5,32.0242536835,"Bachelor's degree",None,None
+33-9099,"Protective Service Workers, All Other",0.590867438085,0.601553975017,0.62776221163,0.0262082366129,0.0435675561984,9.61533002038E-5,18.6058145502,"High school diploma or equivalent",None,"Short-term on-the-job training"
+21-1021,"Child, Family, and School Social Workers",0.581248572593,0.59480956325,0.628217595046,0.0334080317962,0.0561659291652,9.45879987477E-5,31.563,"Bachelor's degree",None,None
+49-9061,"Camera and Photographic Equipment Repairers",0.57637726951,0.568024951795,0.529891337735,-0.0381336140597,-0.0671336953407,9.37952797085E-5,24.1878787686,"High school diploma or equivalent",None,"Long-term on-the-job training"
+31-9093,"Medical Equipment Preparers",0.576027634541,0.581053348976,0.589466360889,0.00841301191262,0.0144788975529,9.37383827568E-5,24.6693895935,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6052,"Tailors, Dressmakers, and Custom Sewers",0.572715796488,0.574456525504,0.571822240742,-0.00263428476151,-0.00458569908175,9.31994392679E-5,22.533703962,"No formal educational credential",None,"Moderate-term on-the-job training"
+37-2019,"Building Cleaning Workers, All Other",0.571520392892,0.580481096651,0.599140280299,0.0186591836481,0.0321443432968,9.30049083234E-5,20.6074545885,"No formal educational credential",None,"Short-term on-the-job training"
+51-9199,"Production Workers, All Other",0.571200520395,0.572924666229,0.575622183922,0.00269751769308,0.00470832877703,9.29528546913E-5,20.3199633995,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+29-1141,"Registered Nurses",0.560844959162,0.569790254009,0.590271588884,0.0204813348757,0.0359453934701,9.12676689393E-5,54.3484828739,"Bachelor's degree",None,None
+21-1023,"Mental Health and Substance Abuse Social Workers",0.542536793362,0.561140512096,0.615417002274,0.054276490178,0.096725310342,8.82883364378E-5,33.5517798193,"Master's degree",None,Internship/residency
+47-2051,"Cement Masons and Concrete Finishers",0.5318279752,0.54081030037,0.561469552706,0.0206592523355,0.0382005526178,8.65456643236E-5,33.5197678366,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-4041,Machinists,0.530294267534,0.534836891531,0.54321321621,0.00837632467861,0.0156614564389,8.6296080332E-5,33.7097662689,"High school diploma or equivalent",None,"Long-term on-the-job training"
+31-1132,Orderlies,0.516834731226,0.529709877257,0.56224521479,0.0325353375339,0.0614210512788,8.41057771408E-5,23.8523646081,"High school diploma or equivalent",None,"Short-term on-the-job training"
+11-9072,"Entertainment and Recreation Managers, Except Gambling",0.508261181799,0.52031483575,0.548610847102,0.0282960113523,0.054382480391,8.27105825189E-5,42.291,"Bachelor's degree","Less than 5 years",None
+13-2082,"Tax Preparers",0.504220485435,0.513385974579,0.531793372474,0.0184073978944,0.0358548904837,8.20530301384E-5,19.7966775822,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-3041,Editors,0.497450040893,0.507657750717,0.532889143044,0.0252313923272,0.0497015800342,8.09512591749E-5,37.8259791761,"Bachelor's degree","Less than 5 years",None
+31-9011,"Massage Therapists",0.494123303477,0.503060856256,0.524979912275,0.0219190560189,0.0435713805723,8.04098910762E-5,40.6381637676,"Postsecondary nondegree award",None,None
+51-9198,"Helpers--Production Workers",0.482602417502,0.479746890928,0.461051094924,-0.018695796004,-0.0389701243667,7.8535069185E-5,20.3441982328,"High school diploma or equivalent",None,"Short-term on-the-job training"
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.481083832488,0.466204811012,0.399450459226,-0.0667543517858,-0.143186750134,7.82879461395E-5,53.6114472729,"Bachelor's degree",None,None
+53-7011,"Conveyor Operators and Tenders",0.438361885416,0.441434362834,0.443030079696,0.00159571686239,0.00361484514288,7.13356994302E-5,19.1245437313,"No formal educational credential",None,"Short-term on-the-job training"
+27-2012,"Producers and Directors",0.412072048339,0.415797647633,0.423183028398,0.00738538076432,0.0177619589874,6.70574900827E-5,35.1113474388,"Bachelor's degree","Less than 5 years",None
+11-9051,"Food Service Managers",0.411860248493,0.434009205139,0.494836566119,0.0608273609797,0.140152237002,6.70230233768E-5,41.5382952013,"High school diploma or equivalent","Less than 5 years",None
+47-2221,"Structural Iron and Steel Workers",0.411639084046,0.412493357127,0.411146304217,-0.00134705290998,-0.00326563540165,6.69870327465E-5,47.6133931251,"High school diploma or equivalent",None,Apprenticeship
+13-1031,"Claims Adjusters, Examiners, and Investigators",0.408308407228,0.424787553444,0.464296240323,0.0395086868789,0.0930081085443,6.64450235796E-5,36.0151792245,"High school diploma or equivalent",None,"Long-term on-the-job training"
+17-3024,"Electro-Mechanical and Mechatronics Technologists and Technicians",0.404785472357,0.411625822748,0.428323072821,0.0166972500729,0.0405641462467,6.58717277903E-5,48.26927103,"Associate's degree",None,None
+35-9099,"Food Preparation and Serving Related Workers, All Other",0.400592735497,0.409775312112,0.432020768812,0.0222454567004,0.054286961764,6.51894334887E-5,16.8426124345,"No formal educational credential",None,"Short-term on-the-job training"
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.392854731384,0.405487955767,0.436107453471,0.0306194977032,0.0755127181157,6.3930209195E-5,16.7672137363,"No formal educational credential",None,"Short-term on-the-job training"
+49-2097,"Audiovisual Equipment Installers and Repairers",0.37660695326,0.378131319483,0.384623830714,0.00649251123082,0.0171699906786,6.12861686084E-5,20.1316050814,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+51-6021,"Pressers, Textile, Garment, and Related Materials",0.374233039763,0.374780725578,0.370302126797,-0.00447859878097,-0.0119499175793,6.08998558715E-5,17.1634590584,"No formal educational credential",None,"Short-term on-the-job training"
+49-2092,"Electric Motor, Power Tool, and Related Repairers",0.369139803716,0.371970596734,0.376273488163,0.00430289142821,0.0115678267745,6.00710211396E-5,28.9463664159,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+49-3011,"Aircraft Mechanics and Service Technicians",0.366056635582,0.370581025991,0.379507508401,0.00892648241076,0.0240878020857,5.95692896646E-5,43.9666774048,"Postsecondary nondegree award",None,None
+47-4041,"Hazardous Materials Removal Workers",0.363404668292,0.370507461074,0.388013198874,0.0175057377998,0.047248003452,5.91377285556E-5,26.7934771131,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+29-2061,"Licensed Practical and Licensed Vocational Nurses",0.363175544147,0.368420635839,0.379572731203,0.0111520953635,0.0302700073738,5.91004426243E-5,37.1394213444,"Postsecondary nondegree award",None,None
+11-2033,"Fundraising Managers",0.359605264854,0.367121962698,0.385721493428,0.0185995307294,0.0506630837138,5.85194423617E-5,62.6400161012,"Bachelor's degree","5 years or more",None
+17-1022,Surveyors,0.351559143456,0.388710048863,0.516755614158,0.128045565296,0.329411512952,5.721007739E-5,44.352094737,"Bachelor's degree",None,Internship/residency
+17-2081,"Environmental Engineers",0.351518462847,0.35800412908,0.373930806597,0.0159266775165,0.0444874129173,5.72034573353E-5,50.592377185,"Bachelor's degree",None,None
+27-3099,"Media and Communication Workers, All Other",0.347323025733,0.353718038351,0.366724288498,0.0130062501473,0.0367701070827,5.65207236149E-5,21.9956675534,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-9111,"Packaging and Filling Machine Operators and Tenders",0.342441126009,0.343776798855,0.342844434285,-0.000932364569818,-0.00271212185617,5.57262801585E-5,18.9780605281,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+15-1251,"Computer Programmers",0.336599311037,0.343322662786,0.359915022927,0.0165923601405,0.0483287645674,5.47756273512E-5,74.01862142,"Bachelor's degree",None,None
+35-1011,"Chefs and Head Cooks",0.332670345631,0.339796905876,0.357455463789,0.0176585579137,0.0519679773664,5.41362572221E-5,32.6343082204,"High school diploma or equivalent","5 years or more",None
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",0.323845684539,0.330287708728,0.344610679212,0.0143229704843,0.0433651332029,5.27001985861E-5,20.5194482071,"High school diploma or equivalent",None,"Short-term on-the-job training"
+27-3042,"Technical Writers",0.320644284445,0.325399291456,0.335338649051,0.00993935759486,0.0305451113627,5.21792269359E-5,42.9360872616,"Bachelor's degree","Less than 5 years","Short-term on-the-job training"
+27-2022,"Coaches and Scouts",0.317222952721,0.318967618712,0.318878497148,-8.91215640089E-5,-0.000279406305784,5.16224652748E-5,20.8787024107,"Bachelor's degree",None,None
+43-9022,"Word Processors and Typists",0.314729235846,0.322359676209,0.341389073586,0.0190293973773,0.0590315687157,5.12166566418E-5,18.6326942046,"High school diploma or equivalent",None,"Short-term on-the-job training"
+47-5011,"Derrick Operators, Oil and Gas",0.313329100907,0.315086591903,0.314971813807,-0.00011477809681,-0.000364274773218,5.09888092661E-5,38.9125030214,"No formal educational credential",None,"Short-term on-the-job training"
+17-2131,"Materials Engineers",0.31130946838,0.316788205532,0.330199820055,0.0134116145225,0.0423362179787,5.06601495362E-5,62.6214175525,"Bachelor's degree",None,None
+49-9052,"Telecommunications Line Installers and Repairers",0.306458810829,0.30790539442,0.309660485853,0.00175509143293,0.00570009965637,4.98707901949E-5,37.1642300032,"High school diploma or equivalent",None,"Long-term on-the-job training"
+17-2112,"Industrial Engineers",0.303073583562,0.318339106595,0.367520449536,0.0491813429411,0.15449356338,4.93199039002E-5,55.7601939052,"Bachelor's degree",None,None
+21-1029,"Social Workers, All Other",0.299630308573,0.308690492369,0.331875406699,0.0231849143307,0.0751073159162,4.87595713579E-5,42.5994610346,"Bachelor's degree",None,None
+19-3051,"Urban and Regional Planners",0.297036420358,0.302204429499,0.314845422294,0.0126409927952,0.0418292770101,4.83374615984E-5,46.7942268622,"Master's degree",None,None
+17-3023,"Electrical and Electronic Engineering Technologists and Technicians",0.29003174024,0.295931367674,0.310702330192,0.0147709625177,0.0499134736334,4.71975729079E-5,39.9827625743,"Associate's degree",None,None
+51-6031,"Sewing Machine Operators",0.283861514373,0.286230960242,0.290253923981,0.00402296373939,0.0140549566546,4.61934769942E-5,17.973,"No formal educational credential",None,"Short-term on-the-job training"
+17-1021,"Cartographers and Photogrammetrists",0.280990451563,0.286066957435,0.298515949497,0.0124489920614,0.0435177560282,4.57262619363E-5,46.8620904053,"Bachelor's degree",None,None
+43-9071,"Office Machine Operators, Except Computer",0.27313230901,0.278278750426,0.290933840555,0.0126550901299,0.0454763078768,4.44474872211E-5,19.6350206616,"High school diploma or equivalent",None,"Short-term on-the-job training"
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.269179372095,0.278138899389,0.299789145591,0.0216502462016,0.0778396917842,4.38042161497E-5,24.1448956384,"High school diploma or equivalent","Less than 5 years",None
+43-4031,"Court, Municipal, and License Clerks",0.268201211452,0.275962780238,0.295472390624,0.0195096103853,0.0706965278739,4.36450376812E-5,31.1132431905,"High school diploma or equivalent",None,"Long-term on-the-job training"
+27-2011,Actors,0.266632442214,0.272573067214,0.287324550098,0.014751482884,0.054119370761,4.33897480345E-5,26.1243559716,"Some college, no degree",None,"Long-term on-the-job training"
+27-1022,"Fashion Designers",0.26240628357,0.267922638231,0.281576889924,0.0136542516927,0.0509634116132,4.27020149244E-5,33.993,"Bachelor's degree",None,None
+27-1021,"Commercial and Industrial Designers",0.258017921183,0.263960362611,0.278742006212,0.0147816436006,0.0559994820978,4.19878860035E-5,49.4193529954,"Bachelor's degree",None,None
+27-3043,"Writers and Authors",0.257675090038,0.262247386311,0.27252941588,0.0102820295697,0.0392073671899,4.19320962545E-5,39.6358311566,"Bachelor's degree",None,"Long-term on-the-job training"
+29-1051,Pharmacists,0.244362920033,0.245740560754,0.245645587427,-9.49733268074E-5,-0.000386478025915,3.97657743415E-5,72.7299872637,"Doctoral or professional degree",None,None
+37-2021,"Pest Control Workers",0.243339645951,0.249532336267,0.26472702988,0.0151946936133,0.0608926836524,3.95992544529E-5,24.5363908137,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",0.238480554423,0.242934744911,0.25388143407,0.0109466891589,0.0450602039772,3.88085226299E-5,27.8465030227,"Postsecondary nondegree award",None,None
+17-3013,"Mechanical Drafters",0.238439826603,0.242793194727,0.253476298896,0.0106831041689,0.0440008385778,3.88018948924E-5,38.5874462665,"Associate's degree",None,None
+43-9081,"Proofreaders and Copy Markers",0.229691274903,0.233740409296,0.241959588668,0.00821917937268,0.0351637074541,3.73782217235E-5,23.6664408995,"Bachelor's degree",None,None
+47-2231,"Solar Photovoltaic Installers",0.228263433805,0.233797557491,0.247598994072,0.0138014365806,0.0590315687157,3.71458656571E-5,20.3047430946,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-3013,Helpers--Electricians,0.226397078814,0.231885953731,0.245574545342,0.0136885916119,0.0590315687157,3.68421491545E-5,32.13,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",0.221577024746,0.226798200315,0.239800830506,0.0130026301911,0.0573312758788,3.60577699927E-5,157.639767192,"Bachelor's degree","Less than 5 years","Moderate-term on-the-job training"
+13-2061,"Financial Examiners",0.219517413804,0.228772076657,0.252659421443,0.0238873447858,0.104415473841,3.57226044777E-5,48.400300036,"Bachelor's degree",None,"Long-term on-the-job training"
+47-4021,"Elevator and Escalator Installers and Repairers",0.21796519955,0.222003490123,0.231922888613,0.0099193984905,0.0446812727359,3.5470008864E-5,59.3096195635,"High school diploma or equivalent",None,Apprenticeship
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.216879315478,0.221552853233,0.232485300385,0.010932447152,0.0493446461755,3.52933002988E-5,25.9360597317,"High school diploma or equivalent",None,"Short-term on-the-job training"
+29-2034,"Radiologic Technologists and Technicians",0.212430498046,0.214779740682,0.219950385375,0.00517064469276,0.0240741732732,3.45693333809E-5,45.8877632371,"Associate's degree",None,None
+29-2032,"Diagnostic Medical Sonographers",0.204593202305,0.206289614533,0.208767827914,0.00247821338065,0.0120132726326,3.32939511181E-5,53.5837656287,"Associate's degree",None,None
+41-9031,"Sales Engineers",0.204389825238,0.205308187415,0.205411503062,0.00010331564663,0.000503222243257,3.32608550716E-5,60.8386777733,"Bachelor's degree",None,"Moderate-term on-the-job training"
+25-3041,Tutors,0.203314811933,0.206725118006,0.21335194623,0.00662682822403,0.0320562314244,3.3085915533E-5,19.6676206215,"Bachelor's degree",None,None
+51-6093,Upholsterers,0.201595882603,0.202130920742,0.200646356674,-0.0014845640678,-0.00734456688938,3.28061899681E-5,25.2539151884,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+21-1094,"Community Health Workers",0.196573258082,0.200269552213,0.209357543292,0.00908799107919,0.045378795622,3.19888460221E-5,26.334,"High school diploma or equivalent",None,"Short-term on-the-job training"
+49-3052,"Motorcycle Mechanics",0.194233336221,0.196031384201,0.199081730377,0.00305034617614,0.0155604990934,3.16080648272E-5,22.9351268226,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+43-2011,"Switchboard Operators, Including Answering Service",0.194006183237,0.200409691152,0.216586085336,0.0161763941841,0.0807166264817,3.15710996677E-5,21.3944739773,"High school diploma or equivalent",None,"Short-term on-the-job training"
+29-2099,"Health Technologists and Technicians, All Other",0.188007793139,0.189506439516,0.191897723704,0.00239128418729,0.0126184851206,3.05949670081E-5,27.9815526856,"Postsecondary nondegree award",None,None
+41-9041,Telemarketers,0.185237411003,0.186069717758,0.186163352178,9.3634420772E-5,0.000503222243256,3.0144135962E-5,16.7494372663,"No formal educational credential",None,"Short-term on-the-job training"
+43-4021,"Correspondence Clerks",0.182599678673,0.18170772206,0.174844711152,-0.00686301090782,-0.0377695060507,2.97148913427E-5,19.9195628453,"High school diploma or equivalent",None,"Short-term on-the-job training"
+49-9051,"Electrical Power-Line Installers and Repairers",0.175526707966,0.176311609112,0.176403283059,9.16739470684E-5,0.000519954117201,2.85638895579E-5,67.4703029488,"High school diploma or equivalent",None,"Long-term on-the-job training"
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.172677183773,0.180432955527,0.198958860398,0.0185259048714,0.102674729332,2.81001795318E-5,36.036,"Bachelor's degree",None,"Long-term on-the-job training"
+19-4042,"Environmental Science and Protection Technicians, Including Health",0.169699213847,0.176568870016,0.197596733563,0.0210278635472,0.119091567757,2.7615567218E-5,24.0054356856,"Associate's degree",None,None
+17-3019,"Drafters, All Other",0.16897730161,0.173074065036,0.183290898599,0.0102168335631,0.0590315687157,2.74980886779E-5,29.5112003931,"Associate's degree",None,None
+43-9031,"Desktop Publishers",0.161299164929,0.165209776077,0.174962368326,0.00975259224902,0.0590315687157,2.62486067574E-5,23.202,"Associate's degree",None,"Short-term on-the-job training"
+11-3051,"Industrial Production Managers",0.157247907831,0.160453652904,0.167698325068,0.00724467216372,0.0451511824916,2.55893358028E-5,63.2593642308,"Bachelor's degree","5 years or more",None
+35-2019,"Cooks, All Other",0.15441768402,0.157740214088,0.16550536912,0.00776515503276,0.0492274914021,2.5128766575E-5,25.2523675664,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.149132347385,0.152747980613,0.161764933526,0.00901695291372,0.0590315687157,2.42686708455E-5,27.738,"High school diploma or equivalent",None,"Short-term on-the-job training"
+11-1031,Legislators,0,0,0,0,0,0,59.6977726954,"Bachelor's degree","Less than 5 years",None
+11-2011,"Advertising and Promotions Managers",0,0,0,0,0,0,84.9032790077,"Bachelor's degree","Less than 5 years",None
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",0,0,0,0,0,0,19.0289624804,"High school diploma or equivalent","5 years or more",None
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",0,0,0,0,0,0,33.489,"Bachelor's degree","Less than 5 years",None
+11-9032,"Education Administrators, Kindergarten through Secondary",0,0,0,0,0,0,78.8075069413,"Master's degree","5 years or more",None
+11-9033,"Education Administrators, Postsecondary",0,0,0,0,0,0,50.3712182378,"Master's degree","Less than 5 years",None
+11-9039,"Education Administrators, All Other",0,0,0,0,0,0,39.0823030696,"Bachelor's degree","Less than 5 years",None
+11-9071,"Gambling Managers",0,0,0,0,0,0,57.564,"High school diploma or equivalent","Less than 5 years",None
+11-9081,"Lodging Managers",0,0,0,0,0,0,40.9301908598,"High school diploma or equivalent","Less than 5 years",None
+11-9131,"Postmasters and Mail Superintendents",0,0,0,0,0,0,45.966877589,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+11-9161,"Emergency Management Directors",0,0,0,0,0,0,66.8117442718,"Bachelor's degree","5 years or more",None
+11-9171,"Funeral Home Managers",0,0,0,0,0,0,41.7430233014,"Associate's degree","Less than 5 years",None
+11-9179,"Personal Service Managers, All Other",0,0,0,0,0,0,38.4886451378,"Bachelor's degree","Less than 5 years",None
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",0,0,0,0,0,0,81.8297429972,"Bachelor's degree","Less than 5 years",None
+13-1032,"Insurance Appraisers, Auto Damage",0,0,0,0,0,0,43.1743305143,"Postsecondary nondegree award",None,"Moderate-term on-the-job training"
+13-1074,"Farm Labor Contractors",0,0,0,0,0,0,25.5422372375,"No formal educational credential","Less than 5 years","Short-term on-the-job training"
+13-2071,"Credit Counselors",0,0,0,0,0,0,30.7522224014,"Bachelor's degree",None,"Moderate-term on-the-job training"
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",0,0,0,0,0,0,33.7900125466,"Bachelor's degree",None,"Moderate-term on-the-job training"
+15-1221,"Computer and Information Research Scientists",0,0,0,0,0,0,100.548920027,"Master's degree",None,None
+15-2011,Actuaries,0,0,0,0,0,0,59.0191588502,"Bachelor's degree",None,"Long-term on-the-job training"
+15-2021,Mathematicians,0,0,0,0,0,0,76.6959581306,"Master's degree",None,None
+15-2099,"Mathematical Science Occupations, All Other",0,0,0,0,0,0,30.2887009426,"Bachelor's degree",None,None
+17-1012,"Landscape Architects",0,0,0,0,0,0,32.9934592969,"Bachelor's degree",None,Internship/residency
+17-2011,"Aerospace Engineers",0,0,0,0,0,0,75.8844429844,"Bachelor's degree",None,None
+17-2021,"Agricultural Engineers",0,0,0,0,0,0,28.9930693048,"Bachelor's degree",None,None
+17-2031,"Bioengineers and Biomedical Engineers",0,0,0,0,0,0,54.1196627792,"Bachelor's degree",None,None
+17-2041,"Chemical Engineers",0,0,0,0,0,0,62.1178379784,"Bachelor's degree",None,None
+17-2061,"Computer Hardware Engineers",0,0,0,0,0,0,75.3210923524,"Bachelor's degree",None,None
+17-2072,"Electronics Engineers, Except Computer",0,0,0,0,0,0,62.6371680905,"Bachelor's degree",None,None
+17-2121,"Marine Engineers and Naval Architects",0,0,0,0,0,0,58.9393382118,"Bachelor's degree",None,None
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",0,0,0,0,0,0,38.1063187522,"Bachelor's degree",None,None
+17-2161,"Nuclear Engineers",0,0,0,0,0,0,62.3789278443,"Bachelor's degree",None,None
+17-2171,"Petroleum Engineers",0,0,0,0,0,0,52.2705254427,"Bachelor's degree",None,None
+17-3012,"Electrical and Electronics Drafters",0,0,0,0,0,0,35.847,"Associate's degree",None,None
+17-3021,"Aerospace Engineering and Operations Technologists and Technicians",0,0,0,0,0,0,47.6461911443,"Associate's degree",None,None
+17-3022,"Civil Engineering Technologists and Technicians",0,0,0,0,0,0,40.5325738997,"Associate's degree",None,None
+17-3025,"Environmental Engineering Technologists and Technicians",0,0,0,0,0,0,42.861165023,"Associate's degree",None,None
+17-3026,"Industrial Engineering Technologists and Technicians",0,0,0,0,0,0,40.0825225839,"Associate's degree",None,None
+17-3027,"Mechanical Engineering Technologists and Technicians",0,0,0,0,0,0,33.172312276,"Associate's degree",None,None
+17-3028,"Calibration Technologists and Technicians",0,0,0,0,0,0,46.272595854,"Associate's degree",None,None
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0,0,0,0,0,0,40.5760344318,"Associate's degree",None,None
+19-1011,"Animal Scientists",0,0,0,0,0,0,39.7407991596,"Bachelor's degree",None,None
+19-1012,"Food Scientists and Technologists",0,0,0,0,0,0,43.2581507486,"Bachelor's degree",None,None
+19-1013,"Soil and Plant Scientists",0,0,0,0,0,0,43.8989430618,"Bachelor's degree",None,None
+19-1021,"Biochemists and Biophysicists",0,0,0,0,0,0,46.611044027,"Doctoral or professional degree",None,None
+19-1022,Microbiologists,0,0,0,0,0,0,33.0790873538,"Bachelor's degree",None,None
+19-1023,"Zoologists and Wildlife Biologists",0,0,0,0,0,0,37.7124580757,"Bachelor's degree",None,None
+19-1029,"Biological Scientists, All Other",0,0,0,0,0,0,42.90562049,"Bachelor's degree",None,None
+19-1031,"Conservation Scientists",0,0,0,0,0,0,34.6778922633,"Bachelor's degree",None,None
+19-1041,Epidemiologists,0,0,0,0,0,0,44.041216103,"Master's degree",None,None
+19-1042,"Medical Scientists, Except Epidemiologists",0,0,0,0,0,0,44.618377804,"Doctoral or professional degree",None,None
+19-1099,"Life Scientists, All Other",0,0,0,0,0,0,44.6393007414,"Bachelor's degree",None,None
+19-2011,Astronomers,0,0,0,0,0,0,39.6627412917,"Doctoral or professional degree",None,None
+19-2012,Physicists,0,0,0,0,0,0,49.9459754344,"Doctoral or professional degree",None,None
+19-2021,"Atmospheric and Space Scientists",0,0,0,0,0,0,56.3910851636,"Bachelor's degree",None,None
+19-2031,Chemists,0,0,0,0,0,0,36.7463020204,"Bachelor's degree",None,None
+19-2032,"Materials Scientists",0,0,0,0,0,0,51.6872291869,"Bachelor's degree",None,None
+19-2041,"Environmental Scientists and Specialists, Including Health",0,0,0,0,0,0,42.8719257658,"Bachelor's degree",None,None
+19-2042,"Geoscientists, Except Hydrologists and Geographers",0,0,0,0,0,0,43.8427837353,"Bachelor's degree",None,None
+19-2043,Hydrologists,0,0,0,0,0,0,47.1598049771,"Bachelor's degree",None,None
+19-2099,"Physical Scientists, All Other",0,0,0,0,0,0,60.0540871677,"Bachelor's degree",None,None
+19-3011,Economists,0,0,0,0,0,0,55.9642283607,"Master's degree",None,None
+19-3022,"Survey Researchers",0,0,0,0,0,0,28.0685447735,"Master's degree",None,None
+19-3032,"Industrial-Organizational Psychologists",0,0,0,0,0,0,47.529,"Master's degree",None,Internship/residency
+19-3033,"Clinical and Counseling Psychologists",0,0,0,0,0,0,51.1570273839,"Doctoral or professional degree",None,Internship/residency
+19-3034,"School Psychologists",0,0,0,0,0,0,52.8168458927,"Doctoral or professional degree",None,Internship/residency
+19-3039,"Psychologists, All Other",0,0,0,0,0,0,52.8863724757,"Master's degree",None,Internship/residency
+19-3041,Sociologists,0,0,0,0,0,0,38.8521366553,"Master's degree",None,None
+19-3091,"Anthropologists and Archeologists",0,0,0,0,0,0,34.4968383349,"Master's degree",None,None
+19-3092,Geographers,0,0,0,0,0,0,51.1085444707,"Bachelor's degree",None,None
+19-3093,Historians,0,0,0,0,0,0,45.4218757858,"Master's degree",None,None
+19-3094,"Political Scientists",0,0,0,0,0,0,62.7870764746,"Master's degree",None,None
+19-3099,"Social Scientists and Related Workers, All Other",0,0,0,0,0,0,47.6881993625,"Bachelor's degree",None,None
+19-4012,"Agricultural Technicians",0,0,0,0,0,0,25.0884394034,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4013,"Food Science Technicians",0,0,0,0,0,0,21.925988745,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4021,"Biological Technicians",0,0,0,0,0,0,25.2203365305,"Bachelor's degree",None,None
+19-4031,"Chemical Technicians",0,0,0,0,0,0,24.5936946818,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4043,"Geological Technicians, Except Hydrologic Technicians",0,0,0,0,0,0,23.6896407747,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4044,"Hydrologic Technicians",0,0,0,0,0,0,37.9705635525,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4051,"Nuclear Technicians",0,0,0,0,0,0,59.2076719311,"Associate's degree",None,"Moderate-term on-the-job training"
+19-4061,"Social Science Research Assistants",0,0,0,0,0,0,21.7906521723,"Bachelor's degree",None,None
+19-4071,"Forest and Conservation Technicians",0,0,0,0,0,0,23.593145525,"Associate's degree",None,None
+19-4092,"Forensic Science Technicians",0,0,0,0,0,0,38.579708123,"Bachelor's degree",None,"Moderate-term on-the-job training"
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0,0,0,0,0,0,31.5189980186,"Associate's degree",None,None
+19-5012,"Occupational Health and Safety Technicians",0,0,0,0,0,0,33.0246950384,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",0,0,0,0,0,0,39.3310050861,"Master's degree",None,None
+21-1013,"Marriage and Family Therapists",0,0,0,0,0,0,25.821,"Master's degree",None,Internship/residency
+21-1015,"Rehabilitation Counselors",0,0,0,0,0,0,25.803,"Master's degree",None,None
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",0,0,0,0,0,0,28.2777055463,"Bachelor's degree",None,None
+21-1019,"Counselors, All Other",0,0,0,0,0,0,30.5785239309,"Master's degree",None,None
+21-1091,"Health Education Specialists",0,0,0,0,0,0,34.9405927918,"Bachelor's degree",None,None
+21-1092,"Probation Officers and Correctional Treatment Specialists",0,0,0,0,0,0,37.812164562,"Bachelor's degree",None,"Short-term on-the-job training"
+21-2011,Clergy,0,0,0,0,0,0,34.9136045305,"Bachelor's degree",None,"Moderate-term on-the-job training"
+21-2021,"Directors, Religious Activities and Education",0,0,0,0,0,0,25.462,"Bachelor's degree","Less than 5 years",None
+21-2099,"Religious Workers, All Other",0,0,0,0,0,0,26.10823053,"Bachelor's degree",None,None
+23-1012,"Judicial Law Clerks",0,0,0,0,0,0,36.2144443205,"Doctoral or professional degree",None,None
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",0,0,0,0,0,0,57.1078159539,"Doctoral or professional degree","5 years or more","Short-term on-the-job training"
+23-1022,"Arbitrators, Mediators, and Conciliators",0,0,0,0,0,0,79.7987402974,"Bachelor's degree","Less than 5 years","Moderate-term on-the-job training"
+23-1023,"Judges, Magistrate Judges, and Magistrates",0,0,0,0,0,0,60.5767160763,"Doctoral or professional degree","5 years or more","Short-term on-the-job training"
+25-1099,"Postsecondary Teachers",0,0,0,0,0,0,38.7686053916,"Doctoral or professional degree",None,None
+25-2011,"Preschool Teachers, Except Special Education",0,0,0,0,0,0,19.296,"Associate's degree",None,None
+25-2012,"Kindergarten Teachers, Except Special Education",0,0,0,0,0,0,44.978647538,"Bachelor's degree",None,None
+25-2021,"Elementary School Teachers, Except Special Education",0,0,0,0,0,0,46.5626989014,"Bachelor's degree",None,None
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",0,0,0,0,0,0,46.4687353733,"Bachelor's degree",None,None
+25-2023,"Career/Technical Education Teachers, Middle School",0,0,0,0,0,0,47.8463650643,"Bachelor's degree","Less than 5 years",None
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",0,0,0,0,0,0,46.3519248372,"Bachelor's degree",None,None
+25-2032,"Career/Technical Education Teachers, Secondary School",0,0,0,0,0,0,46.520143046,"Bachelor's degree","Less than 5 years",None
+25-2051,"Special Education Teachers, Preschool",0,0,0,0,0,0,36.1733874603,"Bachelor's degree",None,None
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",0,0,0,0,0,0,45.8404985688,"Bachelor's degree",None,None
+25-2057,"Special Education Teachers, Middle School",0,0,0,0,0,0,45.8087769042,"Bachelor's degree",None,None
+25-2058,"Special Education Teachers, Secondary School",0,0,0,0,0,0,46.1402540292,"Bachelor's degree",None,None
+25-2059,"Special Education Teachers, All Other",0,0,0,0,0,0,33.4863812156,"Bachelor's degree",None,None
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0,0,0,0,0,0,31.834561056,"Bachelor's degree",None,None
+25-3031,"Substitute Teachers, Short-Term",0,0,0,0,0,0,26.7150482517,"Bachelor's degree",None,None
+25-3099,"Teachers and Instructors, All Other",0,0,0,0,0,0,37.8654893103,"Bachelor's degree",None,None
+25-4011,Archivists,0,0,0,0,0,0,31.9332992263,"Master's degree",None,None
+25-4012,Curators,0,0,0,0,0,0,31.4828272965,"Master's degree",None,None
+25-4013,"Museum Technicians and Conservators",0,0,0,0,0,0,25.9518056254,"Bachelor's degree",None,None
+25-4022,"Librarians and Media Collections Specialists",0,0,0,0,0,0,45.9973006074,"Master's degree",None,None
+25-4031,"Library Technicians",0,0,0,0,0,0,26.2429998233,"Postsecondary nondegree award",None,None
+25-9021,"Farm and Home Management Educators",0,0,0,0,0,0,29.3232043588,"Master's degree",None,None
+25-9031,"Instructional Coordinators",0,0,0,0,0,0,43.1740033238,"Master's degree","5 years or more",None
+25-9044,"Teaching Assistants, Postsecondary",0,0,0,0,0,0,17.8362061673,"Bachelor's degree",None,None
+25-9045,"Teaching Assistants, Except Postsecondary",0,0,0,0,0,0,22.7327297416,"Some college, no degree",None,None
+25-9099,"Educational Instruction and Library Workers, All Other",0,0,0,0,0,0,26.2404365302,"Bachelor's degree",None,None
+27-1012,"Craft Artists",0,0,0,0,0,0,18.777,"No formal educational credential",None,"Long-term on-the-job training"
+27-1014,"Special Effects Artists and Animators",0,0,0,0,0,0,61.74,"Bachelor's degree",None,None
+27-1019,"Artists and Related Workers, All Other",0,0,0,0,0,0,39.618286908,"No formal educational credential",None,"Long-term on-the-job training"
+27-1026,"Merchandise Displayers and Window Trimmers",0,0,0,0,0,0,20.1799020347,"High school diploma or equivalent",None,"Short-term on-the-job training"
+27-1027,"Set and Exhibit Designers",0,0,0,0,0,0,37.3873329538,"Bachelor's degree",None,None
+27-1029,"Designers, All Other",0,0,0,0,0,0,22.0639749835,"Bachelor's degree",None,None
+27-2021,"Athletes and Sports Competitors",0,0,0,0,0,0,77.0827480453,"No formal educational credential",None,"Long-term on-the-job training"
+27-2023,"Umpires, Referees, and Other Sports Officials",0,0,0,0,0,0,17.3358914914,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+27-2031,Dancers,0,0,0,0,0,0,33.3,"No formal educational credential",None,"Long-term on-the-job training"
+27-2032,Choreographers,0,0,0,0,0,0,24.057,"High school diploma or equivalent","5 years or more","Long-term on-the-job training"
+27-2041,"Music Directors and Composers",0,0,0,0,0,0,34.232726748,"Bachelor's degree","Less than 5 years",None
+27-2042,"Musicians and Singers",0,0,0,0,0,0,32.2598303217,"No formal educational credential",None,"Long-term on-the-job training"
+27-2091,"Disc Jockeys, Except Radio",0,0,0,0,0,0,29.6796508244,"No formal educational credential",None,"Short-term on-the-job training"
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",0,0,0,0,0,0,16.911,"No formal educational credential",None,"Short-term on-the-job training"
+27-3011,"Broadcast Announcers and Radio Disc Jockeys",0,0,0,0,0,0,21.1855241316,"Bachelor's degree",None,None
+27-3023,"News Analysts, Reporters, and Journalists",0,0,0,0,0,0,31.0184896322,"Bachelor's degree",None,None
+27-3092,"Court Reporters and Simultaneous Captioners",0,0,0,0,0,0,47.1209292916,"Postsecondary nondegree award",None,"Short-term on-the-job training"
+27-4012,"Broadcast Technicians",0,0,0,0,0,0,26.4722044014,"Associate's degree",None,"Short-term on-the-job training"
+27-4099,"Media and Communication Equipment Workers, All Other",0,0,0,0,0,0,42.9566337883,"High school diploma or equivalent",None,"Short-term on-the-job training"
+29-1011,Chiropractors,0,0,0,0,0,0,46.8010370639,"Doctoral or professional degree",None,None
+29-1021,"Dentists, General",0,0,0,0,0,0,96.98811555,"Doctoral or professional degree",None,None
+29-1022,"Oral and Maxillofacial Surgeons",0,0,0,0,0,0,153.692497343,"Doctoral or professional degree",None,Internship/residency
+29-1023,Orthodontists,0,0,0,0,0,0,154.008086756,"Doctoral or professional degree",None,Internship/residency
+29-1024,Prosthodontists,0,0,0,0,0,0,109.849160487,"Doctoral or professional degree",None,Internship/residency
+29-1029,"Dentists, All Other Specialists",0,0,0,0,0,0,103.986508492,"Doctoral or professional degree",None,Internship/residency
+29-1031,"Dietitians and Nutritionists",0,0,0,0,0,0,38.6855208921,"Bachelor's degree",None,Internship/residency
+29-1041,Optometrists,0,0,0,0,0,0,74.4898874861,"Doctoral or professional degree",None,None
+29-1071,"Physician Assistants",0,0,0,0,0,0,76.4720233475,"Master's degree",None,None
+29-1081,Podiatrists,0,0,0,0,0,0,109.341226409,"Doctoral or professional degree",None,Internship/residency
+29-1122,"Occupational Therapists",0,0,0,0,0,0,48.807902895,"Master's degree",None,None
+29-1123,"Physical Therapists",0,0,0,0,0,0,50.0809334904,"Doctoral or professional degree",None,None
+29-1124,"Radiation Therapists",0,0,0,0,0,0,61.6686328643,"Associate's degree",None,None
+29-1125,"Recreational Therapists",0,0,0,0,0,0,35.9705120349,"Bachelor's degree",None,None
+29-1127,"Speech-Language Pathologists",0,0,0,0,0,0,48.9553923646,"Master's degree",None,Internship/residency
+29-1128,"Exercise Physiologists",0,0,0,0,0,0,37.421172461,"Bachelor's degree",None,None
+29-1129,"Therapists, All Other",0,0,0,0,0,0,34.0253124996,"Bachelor's degree",None,None
+29-1131,Veterinarians,0,0,0,0,0,0,73.9748658842,"Doctoral or professional degree",None,None
+29-1151,"Nurse Anesthetists",0,0,0,0,0,0,111.771197484,"Master's degree",None,None
+29-1161,"Nurse Midwives",0,0,0,0,0,0,67.7194759406,"Master's degree",None,None
+29-1171,"Nurse Practitioners",0,0,0,0,0,0,66.5233387643,"Master's degree",None,None
+29-1181,Audiologists,0,0,0,0,0,0,56.9620175538,"Doctoral or professional degree",None,None
+29-1211,Anesthesiologists,0,0,0,0,0,0,116.018869543,"Doctoral or professional degree",None,Internship/residency
+29-1212,Cardiologists,0,0,0,0,0,0,230.712560606,"Doctoral or professional degree",None,Internship/residency
+29-1213,Dermatologists,0,0,0,0,0,0,179.691752538,"Doctoral or professional degree",None,Internship/residency
+29-1214,"Emergency Medicine Physicians",0,0,0,0,0,0,133.640249316,"Doctoral or professional degree",None,Internship/residency
+29-1215,"Family Medicine Physicians",0,0,0,0,0,0,113.355169519,"Doctoral or professional degree",None,Internship/residency
+29-1216,"General Internal Medicine Physicians",0,0,0,0,0,0,202.452098028,"Doctoral or professional degree",None,Internship/residency
+29-1217,Neurologists,0,0,0,0,0,0,114.662329319,"Doctoral or professional degree",None,Internship/residency
+29-1218,"Obstetricians and Gynecologists",0,0,0,0,0,0,140.916543912,"Doctoral or professional degree",None,Internship/residency
+29-1221,"Pediatricians, General",0,0,0,0,0,0,76.4428863536,"Doctoral or professional degree",None,Internship/residency
+29-1222,"Physicians, Pathologists",0,0,0,0,0,0,107.409708401,"Doctoral or professional degree",None,Internship/residency
+29-1223,Psychiatrists,0,0,0,0,0,0,108.520346426,"Doctoral or professional degree",None,Internship/residency
+29-1224,Radiologists,0,0,0,0,0,0,171.129292239,"Doctoral or professional degree",None,Internship/residency
+29-1229,"Physicians, All Other",0,0,0,0,0,0,135.220059175,"Doctoral or professional degree",None,Internship/residency
+29-1241,"Ophthalmologists, Except Pediatric",0,0,0,0,0,0,119.057425335,"Doctoral or professional degree",None,Internship/residency
+29-1242,"Orthopedic Surgeons, Except Pediatric",0,0,0,0,0,0,186.073440489,"Doctoral or professional degree",None,Internship/residency
+29-1243,"Pediatric Surgeons",0,0,0,0,0,0,218.125533706,"Doctoral or professional degree",None,Internship/residency
+29-1249,"Surgeons, All Other",0,0,0,0,0,0,133.624271018,"Doctoral or professional degree",None,Internship/residency
+29-1291,Acupuncturists,0,0,0,0,0,0,33.7261272493,"Master's degree",None,None
+29-1292,"Dental Hygienists",0,0,0,0,0,0,60.9265697953,"Associate's degree",None,None
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",0,0,0,0,0,0,46.3477897124,"Master's degree",None,None
+29-2018,"Clinical Laboratory Technologists and Technicians",0,0,0,0,0,0,33.350007116,"Bachelor's degree",None,None
+29-2031,"Cardiovascular Technologists and Technicians",0,0,0,0,0,0,38.9379716414,"Associate's degree",None,None
+29-2033,"Nuclear Medicine Technologists",0,0,0,0,0,0,59.3947018299,"Associate's degree",None,None
+29-2035,"Magnetic Resonance Imaging Technologists",0,0,0,0,0,0,57.7159334671,"Associate's degree","Less than 5 years",None
+29-2036,"Medical Dosimetrists",0,0,0,0,0,0,90.7978879585,"Postsecondary nondegree award",None,None
+29-2042,"Emergency Medical Technicians",0,0,0,0,0,0,23.3637044507,"Postsecondary nondegree award",None,None
+29-2043,Paramedics,0,0,0,0,0,0,66.2190553577,"Postsecondary nondegree award",None,None
+29-2051,"Dietetic Technicians",0,0,0,0,0,0,21.087810218,"Associate's degree",None,None
+29-2052,"Pharmacy Technicians",0,0,0,0,0,0,26.02701718,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+29-2053,"Psychiatric Technicians",0,0,0,0,0,0,24.4301511344,"Postsecondary nondegree award","Less than 5 years","Short-term on-the-job training"
+29-2055,"Surgical Technologists",0,0,0,0,0,0,35.2528281131,"Postsecondary nondegree award",None,None
+29-2056,"Veterinary Technologists and Technicians",0,0,0,0,0,0,28.1183206112,"Associate's degree",None,None
+29-2057,"Ophthalmic Medical Technicians",0,0,0,0,0,0,25.2786283754,"Postsecondary nondegree award",None,None
+29-2072,"Medical Records Specialists",0,0,0,0,0,0,30.567431702,"Postsecondary nondegree award",None,None
+29-2081,"Opticians, Dispensing",0,0,0,0,0,0,21.764362276,"High school diploma or equivalent",None,"Long-term on-the-job training"
+29-2091,"Orthotists and Prosthetists",0,0,0,0,0,0,41.5672223749,"Master's degree",None,Internship/residency
+29-2092,"Hearing Aid Specialists",0,0,0,0,0,0,38.6602958045,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+29-9021,"Health Information Technologists and Medical Registrars",0,0,0,0,0,0,25.6101712141,"Postsecondary nondegree award",None,None
+29-9091,"Athletic Trainers",0,0,0,0,0,0,27.2975706591,"Bachelor's degree",None,None
+29-9092,"Genetic Counselors",0,0,0,0,0,0,46.5543986962,"Master's degree",None,None
+29-9093,"Surgical Assistants",0,0,0,0,0,0,36.1067532932,"Postsecondary nondegree award",None,None
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",0,0,0,0,0,0,31.0803147151,"Postsecondary nondegree award",None,None
+31-1131,"Nursing Assistants",0,0,0,0,0,0,23.381730326,"Postsecondary nondegree award",None,None
+31-1133,"Psychiatric Aides",0,0,0,0,0,0,22.8739141011,"High school diploma or equivalent",None,"Short-term on-the-job training"
+31-2011,"Occupational Therapy Assistants",0,0,0,0,0,0,35.95964213,"Associate's degree",None,None
+31-2012,"Occupational Therapy Aides",0,0,0,0,0,0,23.6873757874,"High school diploma or equivalent",None,"Short-term on-the-job training"
+31-2021,"Physical Therapist Assistants",0,0,0,0,0,0,35.5228102366,"Associate's degree",None,None
+31-2022,"Physical Therapist Aides",0,0,0,0,0,0,18.6402771333,"High school diploma or equivalent",None,"Short-term on-the-job training"
+31-9091,"Dental Assistants",0,0,0,0,0,0,28.1296338945,"Postsecondary nondegree award",None,None
+31-9092,"Medical Assistants",0,0,0,0,0,0,27.5802869981,"Postsecondary nondegree award",None,None
+31-9094,"Medical Transcriptionists",0,0,0,0,0,0,17.1940569109,"Postsecondary nondegree award",None,None
+31-9095,"Pharmacy Aides",0,0,0,0,0,0,19.4858945381,"High school diploma or equivalent",None,"Short-term on-the-job training"
+31-9096,"Veterinary Assistants and Laboratory Animal Caretakers",0,0,0,0,0,0,21.1177539871,"High school diploma or equivalent",None,"Short-term on-the-job training"
+31-9097,Phlebotomists,0,0,0,0,0,0,21.3166301515,"Postsecondary nondegree award",None,None
+31-9099,"Healthcare Support Workers, All Other",0,0,0,0,0,0,26.9186701055,"High school diploma or equivalent",None,None
+33-1011,"First-Line Supervisors of Correctional Officers",0,0,0,0,0,0,46.9565933826,"High school diploma or equivalent","Less than 5 years",None
+33-1012,"First-Line Supervisors of Police and Detectives",0,0,0,0,0,0,72.1109932654,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+33-1021,"First-Line Supervisors of Firefighting and Prevention Workers",0,0,0,0,0,0,58.4667816288,"Postsecondary nondegree award","Less than 5 years","Moderate-term on-the-job training"
+33-2011,Firefighters,0,0,0,0,0,0,46.6278191322,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+33-2021,"Fire Inspectors and Investigators",0,0,0,0,0,0,54.858812631,"Postsecondary nondegree award","5 years or more","Moderate-term on-the-job training"
+33-2022,"Forest Fire Inspectors and Prevention Specialists",0,0,0,0,0,0,19.116249237,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+33-3011,Bailiffs,0,0,0,0,0,0,43.2359577886,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+33-3012,"Correctional Officers and Jailers",0,0,0,0,0,0,36.7423393465,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+33-3021,"Detectives and Criminal Investigators",0,0,0,0,0,0,56.0087679121,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+33-3031,"Fish and Game Wardens",0,0,0,0,0,0,46.2721808199,"Bachelor's degree",None,"Moderate-term on-the-job training"
+33-3041,"Parking Enforcement Workers",0,0,0,0,0,0,31.9865946799,"High school diploma or equivalent",None,"Short-term on-the-job training"
+33-3051,"Police and Sheriff's Patrol Officers",0,0,0,0,0,0,53.727988352,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+33-3052,"Transit and Railroad Police",0,0,0,0,0,0,41.7629733862,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+33-9011,"Animal Control Workers",0,0,0,0,0,0,34.3459592727,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+33-9021,"Private Detectives and Investigators",0,0,0,0,0,0,30.4864565455,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+33-9031,"Gambling Surveillance Officers and Gambling Investigators",0,0,0,0,0,0,20.9628601375,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+33-9093,"Transportation Security Screeners",0,0,0,0,0,0,31.9630235945,"High school diploma or equivalent",None,"Short-term on-the-job training"
+33-9094,"School Bus Monitors",0,0,0,0,0,0,22.2537097567,"High school diploma or equivalent",None,"Short-term on-the-job training"
+35-2013,"Cooks, Private Household",0,0,0,0,0,0,23.4002653201,"Postsecondary nondegree award","Less than 5 years",None
+35-2015,"Cooks, Short Order",0,0,0,0,0,0,19.9511339867,"No formal educational credential",None,"Short-term on-the-job training"
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0,0,0,0,0,0,23.0263316769,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+37-3013,"Tree Trimmers and Pruners",0,0,0,0,0,0,29.203949189,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-1013,"First-Line Supervisors of Gambling Services Workers",0,0,0,0,0,0,36.1877202147,"High school diploma or equivalent","Less than 5 years",None
+39-2011,"Animal Trainers",0,0,0,0,0,0,20.4589985046,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+39-3011,"Gambling Dealers",0,0,0,0,0,0,23.5338720898,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-3012,"Gambling and Sports Book Writers and Runners",0,0,0,0,0,0,17.5495916363,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-3019,"Gambling Service Workers, All Other",0,0,0,0,0,0,18.2982671804,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-3021,"Motion Picture Projectionists",0,0,0,0,0,0,18.187446518,"No formal educational credential",None,"Short-term on-the-job training"
+39-3092,"Costume Attendants",0,0,0,0,0,0,27.1172489044,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-3099,"Entertainment Attendants and Related Workers, All Other",0,0,0,0,0,0,16.8031248328,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-4011,Embalmers,0,0,0,0,0,0,28.2241145977,"Associate's degree",None,"Long-term on-the-job training"
+39-4012,"Crematory Operators",0,0,0,0,0,0,21.9019745462,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-4021,"Funeral Attendants",0,0,0,0,0,0,18.9904320067,"High school diploma or equivalent",None,"Short-term on-the-job training"
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",0,0,0,0,0,0,27.3373026655,"Associate's degree",None,"Long-term on-the-job training"
+39-5011,Barbers,0,0,0,0,0,0,37.7225533555,"Postsecondary nondegree award",None,None
+39-5091,"Makeup Artists, Theatrical and Performance",0,0,0,0,0,0,26.1037355967,"Postsecondary nondegree award",None,None
+39-5092,"Manicurists and Pedicurists",0,0,0,0,0,0,23.1965698411,"Postsecondary nondegree award",None,None
+39-5093,Shampooers,0,0,0,0,0,0,16.8499549791,"No formal educational credential",None,"Short-term on-the-job training"
+39-5094,"Skincare Specialists",0,0,0,0,0,0,31.2986375318,"Postsecondary nondegree award",None,None
+41-2012,"Gambling Change Persons and Booth Cashiers",0,0,0,0,0,0,17.1766013814,"No formal educational credential",None,"Short-term on-the-job training"
+41-9012,Models,0,0,0,0,0,0,31.6484292658,"No formal educational credential",None,None
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0,0,0,0,0,0,18.597197432,"No formal educational credential",None,"Short-term on-the-job training"
+43-2021,"Telephone Operators",0,0,0,0,0,0,20.89999791,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-2099,"Communications Equipment Operators, All Other",0,0,0,0,0,0,26.666664,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-3041,"Gambling Cage Workers",0,0,0,0,0,0,21.4136487762,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-3071,Tellers,0,0,0,0,0,0,21.06,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-5011,"Cargo and Freight Agents",0,0,0,0,0,0,25.1726901225,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-5031,"Public Safety Telecommunicators",0,0,0,0,0,0,36.1041486426,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+43-5041,"Meter Readers, Utilities",0,0,0,0,0,0,29.1566835275,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-5051,"Postal Service Clerks",0,0,0,0,0,0,28.6840929717,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-5052,"Postal Service Mail Carriers",0,0,0,0,0,0,27.6562621685,"High school diploma or equivalent",None,"Short-term on-the-job training"
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0,0,0,0,0,0,26.3048550013,"High school diploma or equivalent",None,"Short-term on-the-job training"
+45-2011,"Agricultural Inspectors",0,0,0,0,0,0,34.8946943713,"Bachelor's degree",None,"Moderate-term on-the-job training"
+45-2021,"Animal Breeders",0,0,0,0,0,0,20.4250656967,"High school diploma or equivalent",None,"Short-term on-the-job training"
+45-2041,"Graders and Sorters, Agricultural Products",0,0,0,0,0,0,18.6544325871,"No formal educational credential",None,"Short-term on-the-job training"
+45-2091,"Agricultural Equipment Operators",0,0,0,0,0,0,18.6405916919,"No formal educational credential",None,"Moderate-term on-the-job training"
+45-2099,"Agricultural Workers, All Other",0,0,0,0,0,0,21.0235866441,"No formal educational credential",None,"Short-term on-the-job training"
+45-3031,"Fishing and Hunting Workers",0,0,0,0,0,0,18.3353346544,"No formal educational credential",None,"Moderate-term on-the-job training"
+45-4011,"Forest and Conservation Workers",0,0,0,0,0,0,19.0298418154,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+45-4021,Fallers,0,0,0,0,0,0,21.7239723513,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+45-4022,"Logging Equipment Operators",0,0,0,0,0,0,32.481,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+45-4023,"Log Graders and Scalers",0,0,0,0,0,0,29.7735775004,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+45-4029,"Logging Workers, All Other",0,0,0,0,0,0,31.7009036904,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-2011,Boilermakers,0,0,0,0,0,0,48.9510088341,"High school diploma or equivalent",None,Apprenticeship
+47-2021,"Brickmasons and Blockmasons",0,0,0,0,0,0,43.8221590409,"High school diploma or equivalent",None,Apprenticeship
+47-2022,Stonemasons,0,0,0,0,0,0,41.814,"High school diploma or equivalent",None,Apprenticeship
+47-2041,"Carpet Installers",0,0,0,0,0,0,25.992,"No formal educational credential",None,"Short-term on-the-job training"
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0,0,0,0,0,0,23.031,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-2043,"Floor Sanders and Finishers",0,0,0,0,0,0,27.764229618,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-2044,"Tile and Stone Setters",0,0,0,0,0,0,31.725,"No formal educational credential",None,"Long-term on-the-job training"
+47-2053,"Terrazzo Workers and Finishers",0,0,0,0,0,0,25.0443311324,"High school diploma or equivalent",None,Apprenticeship
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",0,0,0,0,0,0,36.9717496823,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-2072,"Pile Driver Operators",0,0,0,0,0,0,52.0542991873,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-2081,"Drywall and Ceiling Tile Installers",0,0,0,0,0,0,33.336,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-2082,Tapers,0,0,0,0,0,0,31.635,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-2121,Glaziers,0,0,0,0,0,0,32.6625182719,"High school diploma or equivalent",None,Apprenticeship
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",0,0,0,0,0,0,21.411,"No formal educational credential",None,"Short-term on-the-job training"
+47-2132,"Insulation Workers, Mechanical",0,0,0,0,0,0,43.2263570876,"High school diploma or equivalent",None,Apprenticeship
+47-2142,Paperhangers,0,0,0,0,0,0,20.88,"No formal educational credential",None,"Long-term on-the-job training"
+47-2151,Pipelayers,0,0,0,0,0,0,39.3034862345,"No formal educational credential",None,"Short-term on-the-job training"
+47-2161,"Plasterers and Stucco Masons",0,0,0,0,0,0,25.713,"No formal educational credential",None,"Long-term on-the-job training"
+47-2171,"Reinforcing Iron and Rebar Workers",0,0,0,0,0,0,51.0435590159,"High school diploma or equivalent",None,Apprenticeship
+47-2181,Roofers,0,0,0,0,0,0,28.844802428,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-2211,"Sheet Metal Workers",0,0,0,0,0,0,44.5867467595,"High school diploma or equivalent",None,Apprenticeship
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0,0,0,0,0,0,33.039,"No formal educational credential",None,"Short-term on-the-job training"
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0,0,0,0,0,0,17.7568745705,"No formal educational credential",None,"Short-term on-the-job training"
+47-3016,Helpers--Roofers,0,0,0,0,0,0,21.152234894,"No formal educational credential",None,"Short-term on-the-job training"
+47-3019,"Helpers, Construction Trades, All Other",0,0,0,0,0,0,30.5519902658,"No formal educational credential",None,"Short-term on-the-job training"
+47-4051,"Highway Maintenance Workers",0,0,0,0,0,0,31.2263802205,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-4061,"Rail-Track Laying and Maintenance Equipment Operators",0,0,0,0,0,0,39.932145407,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-4071,"Septic Tank Servicers and Sewer Pipe Cleaners",0,0,0,0,0,0,29.8605025254,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-5012,"Rotary Drill Operators, Oil and Gas",0,0,0,0,0,0,34.6697211664,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0,0,0,0,0,0,31.5642391762,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+47-5023,"Earth Drillers, Except Oil and Gas",0,0,0,0,0,0,39.4778199478,"High school diploma or equivalent","Less than 5 years","Long-term on-the-job training"
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",0,0,0,0,0,0,37.3772806523,"High school diploma or equivalent","Less than 5 years","Long-term on-the-job training"
+47-5041,"Continuous Mining Machine Operators",0,0,0,0,0,0,27.2426108104,"No formal educational credential",None,"Moderate-term on-the-job training"
+47-5043,"Roof Bolters, Mining",0,0,0,0,0,0,0,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-5044,"Loading and Moving Machine Operators, Underground Mining",0,0,0,0,0,0,36.5567858592,"No formal educational credential",None,"Short-term on-the-job training"
+47-5049,"Underground Mining Machine Operators, All Other",0,0,0,0,0,0,25.0743470458,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-5051,"Rock Splitters, Quarry",0,0,0,0,0,0,28.1223395949,"No formal educational credential",None,"Short-term on-the-job training"
+47-5081,"Helpers--Extraction Workers",0,0,0,0,0,0,24.912897241,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+47-5099,"Extraction Workers, All Other",0,0,0,0,0,0,25.8367211023,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",0,0,0,0,0,0,36.7220782905,"Associate's degree",None,"Moderate-term on-the-job training"
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0,0,0,0,0,0,35.2827273706,"Postsecondary nondegree award",None,"Moderate-term on-the-job training"
+49-2091,"Avionics Technicians",0,0,0,0,0,0,49.1496186161,"Associate's degree",None,None
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0,0,0,0,0,0,54.2606050924,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0,0,0,0,0,0,61.3490519332,"Postsecondary nondegree award","Less than 5 years","Moderate-term on-the-job training"
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",0,0,0,0,0,0,22.2647015772,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-2098,"Security and Fire Alarm Systems Installers",0,0,0,0,0,0,28.467,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-3022,"Automotive Glass Installers and Repairers",0,0,0,0,0,0,25.533,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-3041,"Farm Equipment Mechanics and Service Technicians",0,0,0,0,0,0,27.7941407049,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-3043,"Rail Car Repairers",0,0,0,0,0,0,28.8530530954,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-9011,"Mechanical Door Repairers",0,0,0,0,0,0,22.5,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",0,0,0,0,0,0,44.1216365463,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-9044,Millwrights,0,0,0,0,0,0,37.3350742575,"High school diploma or equivalent",None,Apprenticeship
+49-9045,"Refractory Materials Repairers, Except Brickmasons",0,0,0,0,0,0,30.977677124,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+49-9063,"Musical Instrument Repairers and Tuners",0,0,0,0,0,0,21.4820159147,"High school diploma or equivalent",None,Apprenticeship
+49-9064,"Watch and Clock Repairers",0,0,0,0,0,0,22.2166472901,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-9069,"Precision Instrument and Equipment Repairers, All Other",0,0,0,0,0,0,44.9646198809,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-9081,"Wind Turbine Service Technicians",0,0,0,0,0,0,41.4259423796,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+49-9092,"Commercial Divers",0,0,0,0,0,0,58.05241626,"Postsecondary nondegree award",None,"Moderate-term on-the-job training"
+49-9094,"Locksmiths and Safe Repairers",0,0,0,0,0,0,25.8311062756,"High school diploma or equivalent",None,"Long-term on-the-job training"
+49-9095,"Manufactured Building and Mobile Home Installers",0,0,0,0,0,0,21.2218163806,"High school diploma or equivalent",None,"Short-term on-the-job training"
+49-9097,"Signal and Track Switch Repairers",0,0,0,0,0,0,50.1788227121,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0,0,0,0,0,0,41.1233304947,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2021,"Coil Winders, Tapers, and Finishers",0,0,0,0,0,0,76.4738543852,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",0,0,0,0,0,0,23.0661878518,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2031,"Engine and Other Machine Assemblers",0,0,0,0,0,0,29.5074281218,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2041,"Structural Metal Fabricators and Fitters",0,0,0,0,0,0,33.1723177131,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2051,"Fiberglass Laminators and Fabricators",0,0,0,0,0,0,24.8579398214,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-2061,"Timing Device Assemblers and Adjusters",0,0,0,0,0,0,17.649,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-3011,Bakers,0,0,0,0,0,0,19.548,"No formal educational credential",None,"Long-term on-the-job training"
+51-3021,"Butchers and Meat Cutters",0,0,0,0,0,0,25.2539801886,"No formal educational credential",None,"Long-term on-the-job training"
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",0,0,0,0,0,0,18.4164360089,"No formal educational credential",None,"Short-term on-the-job training"
+51-3023,"Slaughterers and Meat Packers",0,0,0,0,0,0,19.809,"No formal educational credential",None,"Short-term on-the-job training"
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0,0,0,0,0,0,20.1840269057,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-3092,"Food Batchmakers",0,0,0,0,0,0,20.2192479079,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-3093,"Food Cooking Machine Operators and Tenders",0,0,0,0,0,0,23.4096427429,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-3099,"Food Processing Workers, All Other",0,0,0,0,0,0,20.034,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,23.5698140745,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,26.1827055301,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,27.5860841516,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,24.5620937479,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,45.5902425051,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,22.9398641288,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,23.4366838921,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,43.6288848707,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4051,"Metal-Refining Furnace Operators and Tenders",0,0,0,0,0,0,27.304478558,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4052,"Pourers and Casters, Metal",0,0,0,0,0,0,23.5332240903,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4061,"Model Makers, Metal and Plastic",0,0,0,0,0,0,29.6448955981,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4062,"Patternmakers, Metal and Plastic",0,0,0,0,0,0,25.8818461038,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4071,"Foundry Mold and Coremakers",0,0,0,0,0,0,31.7023452941,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,23.060763366,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,22.5703166646,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4111,"Tool and Die Makers",0,0,0,0,0,0,48.2101008377,"Postsecondary nondegree award",None,"Long-term on-the-job training"
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0,0,0,0,0,0,35.6811025698,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,30.6430527686,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4192,"Layout Workers, Metal and Plastic",0,0,0,0,0,0,49.6518756325,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0,0,0,0,0,0,22.1866897791,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4194,"Tool Grinders, Filers, and Sharpeners",0,0,0,0,0,0,41.7855711269,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-4199,"Metal Workers and Plastic Workers, All Other",0,0,0,0,0,0,28.1574577812,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-5111,"Prepress Technicians and Workers",0,0,0,0,0,0,22.1228364854,"Postsecondary nondegree award",None,None
+51-5112,"Printing Press Operators",0,0,0,0,0,0,21.771,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-5113,"Print Binding and Finishing Workers",0,0,0,0,0,0,19.422,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6041,"Shoe and Leather Workers and Repairers",0,0,0,0,0,0,36.1134622906,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6042,"Shoe Machine Operators and Tenders",0,0,0,0,0,0,19.6482293277,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-6051,"Sewers, Hand",0,0,0,0,0,0,16.8162017624,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-6061,"Textile Bleaching and Dyeing Machine Operators and Tenders",0,0,0,0,0,0,16.8593136095,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",0,0,0,0,0,0,17.9493777257,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0,0,0,0,0,0,20.206,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0,0,0,0,0,0,18.134519481,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0,0,0,0,0,0,21.3375181294,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6092,"Fabric and Apparel Patternmakers",0,0,0,0,0,0,21.861,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",0,0,0,0,0,0,26.325,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-7011,"Cabinetmakers and Bench Carpenters",0,0,0,0,0,0,22.5973005774,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-7021,"Furniture Finishers",0,0,0,0,0,0,21.3889542874,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-7031,"Model Makers, Wood",0,0,0,0,0,0,0,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-7032,"Patternmakers, Wood",0,0,0,0,0,0,0,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",0,0,0,0,0,0,23.3146116715,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0,0,0,0,0,0,23.1167529546,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-7099,"Woodworkers, All Other",0,0,0,0,0,0,32.8319636109,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-8011,"Nuclear Power Reactor Operators",0,0,0,0,0,0,48.9287084,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8012,"Power Distributors and Dispatchers",0,0,0,0,0,0,73.3721289347,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8013,"Power Plant Operators",0,0,0,0,0,0,63.3105672892,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8031,"Water and Wastewater Treatment Plant and System Operators",0,0,0,0,0,0,40.7579295726,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8091,"Chemical Plant and System Operators",0,0,0,0,0,0,42.8682700881,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-8092,"Gas Plant Operators",0,0,0,0,0,0,42.07387749,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0,0,0,0,0,0,44.7363180456,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-8099,"Plant and System Operators, All Other",0,0,0,0,0,0,36.5933488475,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9011,"Chemical Equipment Operators and Tenders",0,0,0,0,0,0,29.5278194956,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0,0,0,0,0,0,26.1051334064,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0,0,0,0,0,0,22.0297283328,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9022,"Grinding and Polishing Workers, Hand",0,0,0,0,0,0,22.6177245633,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",0,0,0,0,0,0,26.8993252627,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9031,"Cutters and Trimmers, Hand",0,0,0,0,0,0,17.2683082747,"No formal educational credential",None,"Short-term on-the-job training"
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",0,0,0,0,0,0,23.4425770211,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0,0,0,0,0,0,22.8040730973,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0,0,0,0,0,0,24.960404953,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9071,"Jewelers and Precious Stone and Metal Workers",0,0,0,0,0,0,26.568,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-9081,"Dental Laboratory Technicians",0,0,0,0,0,0,27.9201534337,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9082,"Medical Appliance Technicians",0,0,0,0,0,0,27.164156017,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9083,"Ophthalmic Laboratory Technicians",0,0,0,0,0,0,23.4009405917,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9123,"Painting, Coating, and Decorating Workers",0,0,0,0,0,0,27.1568255777,"No formal educational credential",None,"Moderate-term on-the-job training"
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0,0,0,0,0,0,26.5139318595,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9141,"Semiconductor Processing Technicians",0,0,0,0,0,0,26.2382011848,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9151,"Photographic Process Workers and Processing Machine Operators",0,0,0,0,0,0,32.4734087323,"High school diploma or equivalent",None,"Short-term on-the-job training"
+51-9161,"Computer Numerically Controlled Tool Operators",0,0,0,0,0,0,47.8488908223,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9162,"Computer Numerically Controlled Tool Programmers",0,0,0,0,0,0,40.6416174899,"Postsecondary nondegree award",None,"Moderate-term on-the-job training"
+51-9191,"Adhesive Bonding Machine Operators and Tenders",0,0,0,0,0,0,25.2131021046,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0,0,0,0,0,0,22.6012755133,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9193,"Cooling and Freezing Equipment Operators and Tenders",0,0,0,0,0,0,24.7557789362,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9194,"Etchers and Engravers",0,0,0,0,0,0,26.883,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0,0,0,0,0,0,23.0457392897,"High school diploma or equivalent",None,"Long-term on-the-job training"
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",0,0,0,0,0,0,30.1079764417,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+51-9197,"Tire Builders",0,0,0,0,0,0,19.0246940902,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-1041,"Aircraft Cargo Handling Supervisors",0,0,0,0,0,0,26.1972316241,"High school diploma or equivalent","Less than 5 years",None
+53-2021,"Air Traffic Controllers",0,0,0,0,0,0,77.810039879,"Associate's degree",None,"Long-term on-the-job training"
+53-2022,"Airfield Operations Specialists",0,0,0,0,0,0,40.9350186668,"High school diploma or equivalent",None,"Long-term on-the-job training"
+53-2031,"Flight Attendants",0,0,0,0,0,0,53.0665367112,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0,0,0,0,0,0,18.5005101933,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-3051,"Bus Drivers, School",0,0,0,0,0,0,29.1994328388,"No formal educational credential",None,"Short-term on-the-job training"
+53-3052,"Bus Drivers, Transit and Intercity",0,0,0,0,0,0,36.7850828249,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-3054,"Taxi Drivers",0,0,0,0,0,0,17.3383636555,"No formal educational credential",None,"Short-term on-the-job training"
+53-4011,"Locomotive Engineers",0,0,0,0,0,0,34.3652556054,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0,0,0,0,0,0,25.11,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0,0,0,0,0,0,35.4777815822,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-4031,"Railroad Conductors and Yardmasters",0,0,0,0,0,0,33.7925540281,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-4041,"Subway and Streetcar Operators",0,0,0,0,0,0,39.7062858478,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-4099,"Rail Transportation Workers, All Other",0,0,0,0,0,0,42.9621206247,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-5022,"Motorboat Operators",0,0,0,0,0,0,25.4107566183,"Postsecondary nondegree award","Less than 5 years",None
+53-5031,"Ship Engineers",0,0,0,0,0,0,45.6224335413,"Postsecondary nondegree award","Less than 5 years",None
+53-6011,"Bridge and Lock Tenders",0,0,0,0,0,0,32.8504857256,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-6032,"Aircraft Service Attendants",0,0,0,0,0,0,24.9802544726,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-6041,"Traffic Technicians",0,0,0,0,0,0,42.3119613035,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-6051,"Transportation Inspectors",0,0,0,0,0,0,54.0679960528,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-6061,"Passenger Attendants",0,0,0,0,0,0,20.2707805385,"High school diploma or equivalent",None,"Short-term on-the-job training"
+53-7031,"Dredge Operators",0,0,0,0,0,0,25.86666408,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-7063,"Machine Feeders and Offbearers",0,0,0,0,0,0,20.5573787776,"No formal educational credential",None,"Short-term on-the-job training"
+53-7064,"Packers and Packagers, Hand",0,0,0,0,0,0,17.5055022418,"No formal educational credential",None,"Short-term on-the-job training"
+53-7071,"Gas Compressor and Gas Pumping Station Operators",0,0,0,0,0,0,36.1632674244,"High school diploma or equivalent",None,"Moderate-term on-the-job training"
+53-7073,"Wellhead Pumpers",0,0,0,0,0,0,37.39999626,"High school diploma or equivalent","Less than 5 years","Moderate-term on-the-job training"
+53-7081,"Refuse and Recyclable Material Collectors",0,0,0,0,0,0,33.7837237283,"No formal educational credential",None,"Short-term on-the-job training"
+53-7121,"Tank Car, Truck, and Ship Loaders",0,0,0,0,0,0,31.0814233113,"No formal educational credential",None,"Short-term on-the-job training"
+55-9999,"Military-only occupations",0,0,0,0,0,0,21.5538348218,N/A,None,N/A
+99-9999,"Unclassified Occupation",0,0,0,0,0,0,0,N/A,None,N/A
